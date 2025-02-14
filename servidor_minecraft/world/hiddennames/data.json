@@ -25,5 +25,86 @@
       "text": ""
     },
     "animation": "null"
+  },
+  {
+    "uuid": "9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16",
+    "displayName": {
+      "insertion": "Kortight",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Kortight "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16",
+          "name": {
+            "text": "Kortight"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Kortight"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "7a6d05ea-f898-4824-9754-26bd3968ab2f",
+    "displayName": {
+      "insertion": "SasukeUchiha7w7",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell SasukeUchiha7w7 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "7a6d05ea-f898-4824-9754-26bd3968ab2f",
+          "name": {
+            "text": "SasukeUchiha7w7"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "SasukeUchiha7w7"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
+    "uuid": "1fb0894e-1ad3-498f-b2b9-2e840907cc42",
+    "displayName": {
+      "insertion": "FilthyDread",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell FilthyDread "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "1fb0894e-1ad3-498f-b2b9-2e840907cc42",
+          "name": {
+            "text": "FilthyDread"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "FilthyDread"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
   }
 ]
