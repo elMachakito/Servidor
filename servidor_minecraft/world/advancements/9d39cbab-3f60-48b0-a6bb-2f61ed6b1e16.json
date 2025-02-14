@@ -1,27 +1,9 @@
 {
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-02-14 08:26:12 +0000"
-    },
-    "done": true
-  },
   "create:root": {
     "criteria": {
       "0": "2025-02-14 08:21:11 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-02-14 08:25:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-02-14 08:26:12 +0000"
-    },
-    "done": false
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
@@ -35,33 +17,21 @@
     },
     "done": true
   },
-  "botania:recipes/tools/lexicon": {
-    "criteria": {
-      "has_item": "2025-02-14 08:25:30 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "forested_field": "2025-02-14 08:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-02-14 08:26:12 +0000"
-    },
-    "done": true
-  },
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2025-02-14 08:21:11 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_keep_kayra": {
+  "cataclysm:root": {
     "criteria": {
-      "location0": "2025-02-14 08:25:51 +0000"
+      "custom_test_name": "2025-02-14 08:21:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "forested_field": "2025-02-14 08:21:12 +0000"
     },
     "done": true
   },
@@ -72,9 +42,39 @@
     },
     "done": false
   },
-  "cataclysm:root": {
+  "botania:recipes/tools/lexicon": {
     "criteria": {
-      "custom_test_name": "2025-02-14 08:21:11 +0000"
+      "has_item": "2025-02-14 08:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-14 08:25:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-02-14 08:25:51 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-02-14 08:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-14 08:26:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-14 08:26:12 +0000"
     },
     "done": true
   },
@@ -83,6 +83,24 @@
       "minecraft:zombie": "2025-02-14 08:26:12 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-14 08:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-14 08:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-02-14 08:32:40 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

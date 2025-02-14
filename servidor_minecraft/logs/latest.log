@@ -7051,3 +7051,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Feb2025 08:29:10.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 was slain by Silvia
 [14Feb2025 08:29:20.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Stone Age]
 [14Feb2025 08:29:26.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Getting an Upgrade]
+[14Feb2025 08:29:46.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[14Feb2025 08:29:59.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> ./spawnpoint
+[14Feb2025 08:30:04.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Made SasukeUchiha7w7 a server operator]
+[14Feb2025 08:30:09.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Set spawn point to -57, 71, -24 [0.0] in minecraft:overworld for SasukeUchiha7w7]
+[14Feb2025 08:31:28.573] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Kortight is 9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16
+[14Feb2025 08:31:36.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kortight[/127.19.181.25:40149] logged in with entity id 13575 at (86.42366930725488, 74.0, 42.68287838323916)
+[14Feb2025 08:31:36.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight joined the game
+[14Feb2025 08:31:36.312] [Server thread/INFO] [Jade/]: Syncing config to Kortight (9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16)
+[14Feb2025 08:31:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was blown up by Creeper
+[14Feb2025 08:31:46.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 was blown up by Creeper
+[14Feb2025 08:32:17.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to ELMACHAKITO]
+[14Feb2025 08:32:23.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to ELMACHAKITO]
+[14Feb2025 08:32:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to ELMACHAKITO]
+[14Feb2025 08:32:39.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported 4 entities to ELMACHAKITO]
+[14Feb2025 08:32:58.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kortight moved wrongly!
+[14Feb2025 08:33:00.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread moved wrongly!
+[14Feb2025 08:33:07.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread moved wrongly!
+[14Feb2025 08:33:24.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 moved wrongly!
+[14Feb2025 08:33:27.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Kortight
+[14Feb2025 08:34:36.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Getting an Upgrade]
+[14Feb2025 08:34:41.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Getting an Upgrade]
+[14Feb2025 08:34:57.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by SasukeUchiha7w7
+[14Feb2025 08:35:01.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Stone Age]
+[14Feb2025 08:35:13.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was slain by Kortight
+[14Feb2025 08:35:19.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Kortight
+[14Feb2025 08:35:31.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by SasukeUchiha7w7
+[14Feb2025 08:35:34.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was slain by Kortight
+[14Feb2025 08:35:36.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 was slain by ELMACHAKITO
+[14Feb2025 08:35:46.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by SasukeUchiha7w7
+[14Feb2025 08:35:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was slain by Kortight
+[14Feb2025 08:35:53.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 was slain by Kortight
+[14Feb2025 08:36:41.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO hit the ground too hard
+[14Feb2025 08:36:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO hit the ground too hard
+[14Feb2025 08:37:18.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Stone Age]
+[14Feb2025 08:37:32.588] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-13, y=4, z=-313}
+[14Feb2025 08:38:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[14Feb2025 08:39:13.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Source of Evil]
