@@ -1,0 +1,27 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-14 06:39:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-02-14 06:39:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-14 06:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-02-14 06:39:03 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
