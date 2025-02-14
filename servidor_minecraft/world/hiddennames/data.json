@@ -1,6 +1,6 @@
 [
   {
-    "uuid": "9793b203-ebbb-39c2-be4c-dac7a1242b50",
+    "uuid": "95da6a11-c44c-4073-ba5c-cfdb085df09a",
     "displayName": {
       "insertion": "ELMACHAKITO",
       "clickEvent": {
@@ -11,7 +11,7 @@
         "action": "show_entity",
         "contents": {
           "type": "minecraft:player",
-          "id": "9793b203-ebbb-39c2-be4c-dac7a1242b50",
+          "id": "95da6a11-c44c-4073-ba5c-cfdb085df09a",
           "name": {
             "text": "ELMACHAKITO"
           }
