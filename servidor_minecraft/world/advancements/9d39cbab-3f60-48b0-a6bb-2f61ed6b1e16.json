@@ -82,6 +82,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-15 02:49:02 +0000",
       "minecraft:spider": "2025-02-15 02:33:43 +0000",
+      "minecraft:husk": "2025-02-15 03:34:12 +0000",
       "minecraft:zombie": "2025-02-14 08:26:12 +0000"
     },
     "done": false
@@ -1144,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
@@ -1156,6 +1163,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
@@ -1165,6 +1184,12 @@
   "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
     },
     "done": true
   },
@@ -1225,6 +1250,12 @@
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
     },
     "done": true
   },
@@ -1333,6 +1364,18 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-15 02:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-15 03:29:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:26:59 +0000"
     },
     "done": true
   },
@@ -1474,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/cherry_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:09:52 +0000"
@@ -1483,6 +1532,12 @@
   "cfm:recipes/decorations/black_grill": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
     },
     "done": true
   },
@@ -1564,6 +1619,12 @@
     },
     "done": true
   },
+  "duckling:pet_duck": {
+    "criteria": {
+      "pet_duck": "2025-02-15 03:27:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
@@ -1585,6 +1646,12 @@
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
     },
     "done": true
   },
@@ -1708,6 +1775,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-15 03:38:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
@@ -1726,9 +1799,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
     },
     "done": true
   },
@@ -1780,9 +1865,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:26:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-15 03:29:47 +0000"
     },
     "done": true
   },
@@ -1948,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-15 03:28:35 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2025-02-15 02:38:39 +0000"
@@ -2086,6 +2189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:26:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
@@ -2095,6 +2204,24 @@
   "cfm:recipes/decorations/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:26:59 +0000"
     },
     "done": true
   },
@@ -2140,6 +2267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-15 03:33:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
@@ -2170,6 +2303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
@@ -2185,6 +2324,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-02-15 02:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
     },
     "done": true
   },
@@ -2404,9 +2549,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-15 03:36:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-02-15 03:36:19 +0000"
     },
     "done": true
   },
@@ -2932,6 +3095,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
@@ -3082,6 +3251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-15 03:36:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
@@ -3109,6 +3284,12 @@
   "another_furniture:recipes/spruce_chair": {
     "criteria": {
       "has_planks": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:26:59 +0000"
     },
     "done": true
   },
@@ -3145,6 +3326,12 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-15 03:33:18 +0000"
     },
     "done": true
   },

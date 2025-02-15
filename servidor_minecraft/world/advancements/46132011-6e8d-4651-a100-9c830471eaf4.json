@@ -23,15 +23,33 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-02-15 03:26:54 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-02-15 03:12:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-15 03:45:50 +0000"
     },
     "done": true
   },
@@ -74,6 +92,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-02-15 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -137,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
@@ -191,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
@@ -203,9 +239,33 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-02-15 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
     },
     "done": true
   },
@@ -239,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-02-15 03:12:39 +0000"
@@ -263,9 +329,27 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-02-15 03:26:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-02-15 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:45:00 +0000"
     },
     "done": true
   },
@@ -275,9 +359,33 @@
     },
     "done": true
   },
+  "adorn:recipes/jungle_post": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
     },
     "done": true
   },
@@ -299,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -314,6 +428,18 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_cobblestone": "2025-02-15 03:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-15 03:27:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
     },
     "done": true
   },
@@ -341,6 +467,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -350,6 +488,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-15 03:45:50 +0000"
     },
     "done": true
   },
@@ -368,6 +512,12 @@
   "cfm:recipes/decorations/green_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-02-15 03:26:54 +0000"
     },
     "done": true
   },
@@ -437,6 +587,24 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
@@ -461,6 +629,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
@@ -476,6 +650,18 @@
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-02-15 03:26:54 +0000"
     },
     "done": true
   },
@@ -617,6 +803,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:45:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
@@ -632,6 +824,12 @@
   "cfm:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
     },
     "done": true
   },
@@ -656,6 +854,12 @@
   "another_furniture:recipes/warped_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_cyan": {
+    "criteria": {
+      "has_item": "2025-02-15 03:26:54 +0000"
     },
     "done": true
   },
@@ -761,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-15 03:27:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-02-15 03:10:41 +0000"
@@ -788,6 +998,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-15 03:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-15 03:45:50 +0000"
     },
     "done": true
   },
@@ -887,9 +1103,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_post": {
+    "criteria": {
+      "has_birch_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -923,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
@@ -947,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:45:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -967,13 +1207,20 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cookie": "2025-02-15 03:21:14 +0000"
+      "cookie": "2025-02-15 03:21:14 +0000",
+      "melon_slice": "2025-02-15 03:28:41 +0000"
     },
     "done": false
   },
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:45:00 +0000"
     },
     "done": true
   },
@@ -992,6 +1239,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-15 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1049,6 +1302,30 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-15 03:35:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
@@ -1085,6 +1362,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
@@ -1094,6 +1377,12 @@
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_gunpowder": "2025-02-15 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-15 03:46:22 +0000"
     },
     "done": true
   },
@@ -1151,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-02-15 03:16:04 +0000"
@@ -1160,6 +1455,12 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1207,6 +1508,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-15 03:28:38 +0000",
       "minecraft:spider": "2025-02-15 03:26:20 +0000",
       "minecraft:zombie": "2025-02-15 03:26:12 +0000"
     },
@@ -1233,6 +1535,12 @@
   "another_furniture:recipes/spruce_table": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1314,6 +1622,12 @@
     },
     "done": true
   },
+  "adorn:recipes/jungle_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
@@ -1326,9 +1640,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1416,6 +1742,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 03:10:09 +0000"
@@ -1455,6 +1787,12 @@
   "cfm:recipes/decorations/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-02-15 03:26:54 +0000"
     },
     "done": true
   },
@@ -1500,9 +1838,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1533,6 +1883,12 @@
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1572,6 +1928,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -1593,6 +1955,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1644,6 +2012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/door_mat": {
     "criteria": {
       "has_wheat": "2025-02-15 03:20:24 +0000"
@@ -1665,6 +2039,12 @@
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-15 03:27:39 +0000"
     },
     "done": true
   },
@@ -1704,9 +2084,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-15 03:46:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-15 03:26:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1752,6 +2156,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-02-15 03:12:39 +0000"
@@ -1771,6 +2181,18 @@
     },
     "done": false
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-02-15 03:42:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2025-02-15 03:10:41 +0000"
@@ -1780,6 +2202,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-02-15 03:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
     },
     "done": true
   },
@@ -1798,6 +2226,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1837,9 +2271,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-02-15 03:42:38 +0000"
     },
     "done": true
   },
@@ -1855,6 +2313,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 03:10:09 +0000"
@@ -1864,6 +2328,24 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-02-15 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
     },
     "done": true
   },
@@ -1894,6 +2376,12 @@
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
     },
     "done": true
   },
@@ -1969,6 +2457,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-02-15 03:10:08 +0000"
@@ -2011,6 +2505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -2032,6 +2532,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-15 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-15 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:30:31 +0000"
     },
     "done": true
   },
@@ -2062,6 +2574,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-15 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-15 03:45:00 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-02-15 03:26:54 +0000"
     },
     "done": true
   },
