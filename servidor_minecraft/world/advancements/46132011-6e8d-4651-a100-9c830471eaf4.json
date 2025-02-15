@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-02-15 03:12:40 +0000"
@@ -404,6 +410,12 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-15 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -779,6 +791,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
@@ -989,6 +1007,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 03:10:09 +0000"
@@ -1169,6 +1193,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-15 03:45:50 +0000"
@@ -1184,6 +1214,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -1385,6 +1421,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
@@ -1421,6 +1463,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_planks": "2025-02-15 03:30:31 +0000"
@@ -1436,6 +1484,12 @@
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -1505,6 +1559,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_chair": {
     "criteria": {
       "has_planks": "2025-02-15 03:30:31 +0000"
@@ -1556,6 +1616,12 @@
   "adorn:recipes/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -1775,6 +1841,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
@@ -1838,6 +1910,12 @@
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -2435,6 +2513,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/mossy_cobblestone_post": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-15 03:13:12 +0000"
@@ -2678,6 +2762,12 @@
   "cfm:recipes/decorations/acacia_crate": {
     "criteria": {
       "has_log": "2025-02-15 05:37:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -3415,6 +3505,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-15 04:37:14 +0000"
@@ -4033,6 +4129,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
@@ -4060,6 +4162,12 @@
   "adorn:recipes/stone_ladder": {
     "criteria": {
       "has_stone": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -4363,6 +4471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-02-15 03:30:31 +0000"
@@ -4390,6 +4504,12 @@
   "botania:recipes/misc/manasteel_block": {
     "criteria": {
       "has_item": "2025-02-15 04:37:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -4567,6 +4687,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_hedge": {
     "criteria": {
       "has_leaves": "2025-02-15 05:28:56 +0000"
@@ -4618,6 +4744,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -4901,6 +5033,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-15 06:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:53:31 +0000"
@@ -4994,6 +5132,12 @@
   "cfm:recipes/decorations/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },
@@ -5390,6 +5534,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-02-15 03:12:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 06:32:03 +0000"
     },
     "done": true
   },

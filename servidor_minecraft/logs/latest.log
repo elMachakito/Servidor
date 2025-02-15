@@ -3574,3 +3574,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 06:30:56.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread burned to death
 [15Feb2025 06:33:00.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Enderman
 [15Feb2025 06:33:07.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread was slain by Enderman
+[15Feb2025 06:36:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
+[15Feb2025 06:37:33.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RnsRiven lost connection: Disconnected
+[15Feb2025 06:37:33.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven left the game
+[15Feb2025 06:45:12.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 lost connection: Timed out
+[15Feb2025 06:45:12.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 left the game
+[15Feb2025 06:45:37.843] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[15Feb2025 06:45:55.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SasukeUchiha7w7[/127.157.150.51:47643] logged in with entity id 136625 at (-2372.699999988079, 107.0, -1509.9125598511243)
+[15Feb2025 06:45:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 joined the game
+[15Feb2025 06:45:55.291] [Server thread/INFO] [Jade/]: Syncing config to SasukeUchiha7w7 (7a6d05ea-f898-4824-9754-26bd3968ab2f)
+[15Feb2025 06:46:25.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 lost connection: Timed out
+[15Feb2025 06:46:25.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 left the game
+[15Feb2025 06:47:26.375] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[15Feb2025 06:47:55.559] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@27ff7c1c[id=7a6d05ea-f898-4824-9754-26bd3968ab2f,name=SasukeUchiha7w7,properties={textures=[com.mojang.authlib.properties.Property@4e667beb]},legacy=false] (/127.157.150.51:45957): Took too long to log in
+[15Feb2025 06:47:55.561] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27ff7c1c[id=7a6d05ea-f898-4824-9754-26bd3968ab2f,name=SasukeUchiha7w7,properties={textures=[com.mojang.authlib.properties.Property@4e667beb]},legacy=false] (/127.157.150.51:45957) lost connection: Took too long to log in
+[15Feb2025 06:47:55.604] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Feb2025 06:48:21.154] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[15Feb2025 06:48:45.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SasukeUchiha7w7[/127.157.150.51:36587] logged in with entity id 136997 at (-2372.699999988079, 107.0, -1509.9125598511243)
+[15Feb2025 06:48:45.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 joined the game
+[15Feb2025 06:48:45.275] [Server thread/INFO] [Jade/]: Syncing config to SasukeUchiha7w7 (7a6d05ea-f898-4824-9754-26bd3968ab2f)
+[15Feb2025 06:49:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2377.500000, 71.500000, -1591.500000]
+[15Feb2025 06:49:32.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to FilthyDread]
+[15Feb2025 06:50:22.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to ELMACHAKITO]
