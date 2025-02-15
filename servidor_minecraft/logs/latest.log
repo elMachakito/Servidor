@@ -3492,3 +3492,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 05:23:54.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Enchanter]
 [15Feb2025 05:24:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]
 [15Feb2025 05:31:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]
+[15Feb2025 05:33:37.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[15Feb2025 05:33:37.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[15Feb2025 05:34:36.775] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[15Feb2025 05:34:41.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.122.234.141:43235] logged in with entity id 109283 at (-2379.699999988079, 102.0, -1510.3801958212925)
+[15Feb2025 05:34:41.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[15Feb2025 05:34:41.805] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[15Feb2025 05:35:06.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[15Feb2025 05:35:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[15Feb2025 05:36:02.355] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[15Feb2025 05:36:07.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.122.234.141:40925] logged in with entity id 111381 at (-2371.7872791294944, 101.0, -1497.2219959147346)
+[15Feb2025 05:36:07.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[15Feb2025 05:36:07.705] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[15Feb2025 05:36:18.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Grizzly Bear
+[15Feb2025 05:36:27.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 05:37:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has reached the goal [Flowers of the Savanna]
+[15Feb2025 05:37:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [No Step on Snake]
+[15Feb2025 05:39:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven is bleeding. RnsRiven was blown up by Death Worm
+[15Feb2025 05:39:26.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[15Feb2025 05:39:46.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[15Feb2025 05:42:20.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 05:42:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[15Feb2025 05:43:09.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 05:43:25.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[15Feb2025 05:45:04.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven is bleeding. RnsRiven was blown up by Death Worm
+[15Feb2025 05:45:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[15Feb2025 05:46:00.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[15Feb2025 05:50:30.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[15Feb2025 05:55:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Take Aim]
+[15Feb2025 05:55:22.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Eye of The Storm]
+[15Feb2025 05:55:24.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Not Today, Thank You]
+[15Feb2025 05:55:40.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [The Desert Swimmers]
+[15Feb2025 05:56:01.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Rigged from the Start]
+[15Feb2025 05:56:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Rigged from the Start]
+[15Feb2025 05:56:33.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Eye of The Storm]
+[15Feb2025 05:56:34.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Take Aim]
+[15Feb2025 05:57:05.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 05:57:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]
+[15Feb2025 05:57:21.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Cursed Pyramid]
+[15Feb2025 05:57:22.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Cursed Pyramid]
+[15Feb2025 05:58:53.456] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Feb2025 06:00:48.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven is bleeding. RnsRiven was slain by Koboleton
+[15Feb2025 06:00:51.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Koboleton
+[15Feb2025 06:01:48.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven was slain by Koboleton
+[15Feb2025 06:01:51.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO was slain by Koboleton
+[15Feb2025 06:01:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2335.500000, 65.500000, -2385.500000]
+[15Feb2025 06:02:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
