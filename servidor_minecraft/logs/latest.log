@@ -3563,3 +3563,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 06:18:04.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported RnsRiven to FilthyDread]
 [15Feb2025 06:18:41.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread went up in flames
 [15Feb2025 06:18:44.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread went up in flames
+[15Feb2025 06:24:07.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to RnsRiven]
+[15Feb2025 06:24:18.277] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[15Feb2025 06:24:25.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SasukeUchiha7w7[/127.157.150.51:49207] logged in with entity id 132009 at (-2361.564814834309, 102.0, -1516.7405637734971)
+[15Feb2025 06:24:25.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 joined the game
+[15Feb2025 06:24:25.591] [Server thread/INFO] [Jade/]: Syncing config to SasukeUchiha7w7 (7a6d05ea-f898-4824-9754-26bd3968ab2f)
+[15Feb2025 06:25:04.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 06:25:54.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread blew up
+[15Feb2025 06:30:48.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread blew up
+[15Feb2025 06:30:56.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread burned to death
+[15Feb2025 06:33:00.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Enderman
+[15Feb2025 06:33:07.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread was slain by Enderman

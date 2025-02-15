@@ -3892,6 +3892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-15 06:31:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
@@ -5269,6 +5275,12 @@
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-15 06:31:23 +0000"
     },
     "done": true
   },

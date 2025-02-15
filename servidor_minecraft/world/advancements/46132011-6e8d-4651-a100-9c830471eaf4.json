@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-15 03:45:50 +0000"
@@ -356,6 +362,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-02-15 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
     },
     "done": true
   },
@@ -764,6 +776,12 @@
   "cfm:recipes/decorations/jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
     },
     "done": true
   },
@@ -1469,6 +1487,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-02-15 03:50:10 +0000"
@@ -1568,6 +1592,12 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-15 05:35:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
     },
     "done": true
   },
@@ -1895,6 +1925,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_red_chestplate": {
     "criteria": {
       "has_item": "2025-02-15 05:57:47 +0000"
@@ -2069,6 +2105,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-15 05:32:43 +0000"
@@ -2120,6 +2162,12 @@
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
     },
     "done": true
   },
@@ -3362,6 +3410,7 @@
       "minecraft:spider": "2025-02-15 03:26:20 +0000",
       "minecraft:creeper": "2025-02-15 04:19:55 +0000",
       "minecraft:husk": "2025-02-15 05:44:37 +0000",
+      "minecraft:enderman": "2025-02-15 06:29:35 +0000",
       "minecraft:zombie": "2025-02-15 03:26:12 +0000"
     },
     "done": false
@@ -3966,6 +4015,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -4011,6 +4066,12 @@
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2025-02-15 04:37:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
     },
     "done": true
   },
@@ -4290,6 +4351,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_table": {
     "criteria": {
       "has_planks": "2025-02-15 03:04:49 +0000"
@@ -4470,6 +4537,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/birch_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-02-15 03:33:44 +0000"
@@ -4551,6 +4630,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
     },
     "done": true
   },
@@ -4879,6 +4964,12 @@
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-15 05:35:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
     },
     "done": true
   },
@@ -5236,6 +5327,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
@@ -5272,6 +5369,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-02-15 03:04:49 +0000"
@@ -5293,6 +5396,12 @@
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-15 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
     },
     "done": true
   },
@@ -5371,6 +5480,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-02-15 03:20:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-02-15 06:31:09 +0000"
     },
     "done": true
   },
