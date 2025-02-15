@@ -3272,3 +3272,64 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 02:49:24.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Mutant Zombie
 [15Feb2025 02:50:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was doomed to fall by Mutant Zombie
 [15Feb2025 02:50:15.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was slain by Mutant Zombie
+[15Feb2025 02:51:12.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was shot by Mutant Skeleton
+[15Feb2025 02:51:19.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was shot by Mutant Skeleton
+[15Feb2025 02:51:21.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO was shot by Mutant Skeleton
+[15Feb2025 02:51:25.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:51:41.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was shot by Mutant Skeleton
+[15Feb2025 02:51:44.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:51:50.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:51:51.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was shot by Mutant Skeleton
+[15Feb2025 02:51:58.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 was shot by Mutant Skeleton
+[15Feb2025 02:52:23.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Sky of Beginning]
+[15Feb2025 02:52:30.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Sky of Beginning]
+[15Feb2025 02:53:00.637] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2270, y=-1, z=-1478}
+[15Feb2025 02:53:10.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was turned into KFC by Fire Dragon
+[15Feb2025 02:53:20.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO burned to death
+[15Feb2025 02:53:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2320.500000, 70.500000, -1092.500000]
+[15Feb2025 02:53:44.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:53:46.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SasukeUchiha7w7> gdfg
+[15Feb2025 02:54:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2234.500000, 71.500000, -945.500000]
+[15Feb2025 02:54:44.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2274.500000, 80.500000, -1067.500000]
+[15Feb2025 02:55:00.605] [pool-6-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=-2597, y=79, z=-1493}
+[15Feb2025 02:55:02.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was turned into KFC by Fire Dragon
+[15Feb2025 02:55:06.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported 4 entities to ELMACHAKITO]
+[15Feb2025 02:55:09.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 burned to death
+[15Feb2025 02:55:22.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2359.500000, 79.500000, -1406.500000]
+[15Feb2025 02:56:08.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:56:12.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was slain by Husk
+[15Feb2025 02:56:20.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 was slain by Husk
+[15Feb2025 02:56:21.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Husk
+[15Feb2025 02:56:28.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Husk
+[15Feb2025 02:56:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2362.500000, 69.500000, -1488.500000]
+[15Feb2025 02:56:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was shot by Skeleton
+[15Feb2025 02:56:41.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight was slain by Husk
+[15Feb2025 02:57:06.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:57:14.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was shot by Skeleton
+[15Feb2025 02:57:22.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported FilthyDread to ELMACHAKITO]
+[15Feb2025 02:57:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Suit Up]
+[15Feb2025 02:57:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was slain by Spider
+[15Feb2025 02:57:28.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread was slain by Husk
+[15Feb2025 02:57:30.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Husk
+[15Feb2025 02:57:34.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 was slain by Spider
+[15Feb2025 02:57:35.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO was shot by Skeleton
+[15Feb2025 02:57:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 02:57:40.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2366.500000, 101.500000, -1511.500000]
+[15Feb2025 02:57:50.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to Kortight]
+[15Feb2025 02:57:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Husk
+[15Feb2025 02:57:57.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight was doomed to fall by Husk
+[15Feb2025 02:58:02.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to FilthyDread]
+[15Feb2025 02:58:09.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[15Feb2025 02:58:10.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Husk
+[15Feb2025 02:58:15.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Acquire Hardware]
+[15Feb2025 02:58:16.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:58:38.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was shot by Skeleton
+[15Feb2025 02:58:43.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:58:46.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 hit the ground too hard
+[15Feb2025 02:58:54.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was shot by Skeleton
+[15Feb2025 02:58:56.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was shot by Skeleton
+[15Feb2025 02:59:06.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 hit the ground too hard
+[15Feb2025 02:59:09.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight was shot by Skeleton
+[15Feb2025 02:59:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to FilthyDread]
+[15Feb2025 02:59:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:59:29.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Isn't It Iron Pick]
