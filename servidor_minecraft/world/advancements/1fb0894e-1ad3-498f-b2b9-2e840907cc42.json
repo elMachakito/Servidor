@@ -81,6 +81,7 @@
       "cooked_porkchop": "2025-02-14 09:01:29 +0000",
       "cooked_mutton": "2025-02-15 02:09:05 +0000",
       "cooked_beef": "2025-02-14 08:52:45 +0000",
+      "bread": "2025-02-15 03:01:30 +0000",
       "rotten_flesh": "2025-02-14 08:21:32 +0000"
     },
     "done": false
@@ -2273,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-15 03:05:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-02-15 02:22:16 +0000"
@@ -2336,6 +2343,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-02-15 03:11:58 +0000"
     },
     "done": true
   },
@@ -2417,6 +2430,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-15 03:02:12 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:22:16 +0000"
@@ -2426,6 +2445,12 @@
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_gunpowder": "2025-02-15 03:05:45 +0000"
     },
     "done": true
   },
@@ -2462,6 +2487,12 @@
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_bars": "2025-02-15 02:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-15 03:01:01 +0000"
     },
     "done": true
   },
@@ -2525,6 +2556,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-02-15 03:01:01 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/bamboo_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:22:16 +0000"
@@ -2543,6 +2580,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-02-15 03:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-02-15 02:34:12 +0000"
@@ -2552,6 +2595,12 @@
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-15 03:01:01 +0000"
     },
     "done": true
   },
@@ -2576,6 +2625,18 @@
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-15 03:01:01 +0000"
     },
     "done": true
   },
@@ -2612,6 +2673,12 @@
   "botania:recipes/building_blocks/azulejo_0": {
     "criteria": {
       "has_item": "2025-02-15 02:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-15 03:05:45 +0000"
     },
     "done": true
   },

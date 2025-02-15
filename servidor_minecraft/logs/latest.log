@@ -3333,3 +3333,52 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 02:59:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to FilthyDread]
 [15Feb2025 02:59:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
 [15Feb2025 02:59:29.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Isn't It Iron Pick]
+[15Feb2025 03:01:26.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Diamonds!]
+[15Feb2025 03:01:36.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by SasukeUchiha7w7
+[15Feb2025 03:02:09.583] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RnsRiven is 46132011-6e8d-4651-a100-9c830471eaf4
+[15Feb2025 03:02:15.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RnsRiven[/127.50.44.161:60829] logged in with entity id 34466 at (7.5, 80.0, -3.5)
+[15Feb2025 03:02:15.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven joined the game
+[15Feb2025 03:02:15.778] [Server thread/INFO] [Jade/]: Syncing config to RnsRiven (46132011-6e8d-4651-a100-9c830471eaf4)
+[15Feb2025 03:02:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Ice and Fire]
+[15Feb2025 03:02:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Orcz Challenges]
+[15Feb2025 03:03:18.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Suit Up]
+[15Feb2025 03:03:46.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 lost connection: Disconnected
+[15Feb2025 03:03:46.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 left the game
+[15Feb2025 03:04:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Alex's Mobs]
+[15Feb2025 03:04:33.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=82, z=-10}
+[15Feb2025 03:04:33.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=82, z=-10}
+[15Feb2025 03:04:35.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=81, z=-10}
+[15Feb2025 03:04:35.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=81, z=-10}
+[15Feb2025 03:04:35.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=81, z=-10}
+[15Feb2025 03:04:35.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=81, z=-10}
+[15Feb2025 03:04:35.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=80, z=-6}
+[15Feb2025 03:04:35.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=80, z=-7}
+[15Feb2025 03:04:35.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=80, z=-7}
+[15Feb2025 03:04:35.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=80, z=-7}
+[15Feb2025 03:04:35.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=80, z=-8}
+[15Feb2025 03:04:35.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=80, z=-7}
+[15Feb2025 03:04:35.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=80, z=-8}
+[15Feb2025 03:08:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[15Feb2025 03:09:51.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Sweet Dreams]
+[15Feb2025 03:10:08.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Stone Age]
+[15Feb2025 03:11:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Kortight
+[15Feb2025 03:11:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread was doomed to fall by Kortight
+[15Feb2025 03:11:46.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread fell from a high place
+[15Feb2025 03:11:57.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[15Feb2025 03:12:14.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread drowned
+[15Feb2025 03:12:18.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was doomed to fall by RnsRiven
+[15Feb2025 03:12:22.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 03:13:48.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven is bleeding. RnsRiven was slain by Orc with Shield
+[15Feb2025 03:13:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Orc with Shield
+[15Feb2025 03:14:20.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Diamonds!]
+[15Feb2025 03:17:57.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven is bleeding. RnsRiven hit the ground too hard
+[15Feb2025 03:19:01.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was doomed to fall
+[15Feb2025 03:19:06.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven is bleeding. RnsRiven was shot by Skeleton
+[15Feb2025 03:19:10.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]
+[15Feb2025 03:19:19.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 03:19:31.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[15Feb2025 03:19:35.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by ELMACHAKITO
+[15Feb2025 03:19:39.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread was slain by ELMACHAKITO
+[15Feb2025 03:20:18.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [A Seedy Place]
+[15Feb2025 03:21:11.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 03:21:14.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]

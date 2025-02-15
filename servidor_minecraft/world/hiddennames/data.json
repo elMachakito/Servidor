@@ -81,6 +81,33 @@
     "animation": "null"
   },
   {
+    "uuid": "46132011-6e8d-4651-a100-9c830471eaf4",
+    "displayName": {
+      "insertion": "RnsRiven",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell RnsRiven "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "46132011-6e8d-4651-a100-9c830471eaf4",
+          "name": {
+            "text": "RnsRiven"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "RnsRiven"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
     "uuid": "1fb0894e-1ad3-498f-b2b9-2e840907cc42",
     "displayName": {
       "insertion": "FilthyDread",
