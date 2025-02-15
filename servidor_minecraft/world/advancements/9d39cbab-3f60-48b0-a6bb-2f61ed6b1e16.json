@@ -1295,9 +1295,27 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -1331,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-02-15 02:52:36 +0000"
@@ -1346,6 +1370,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -1427,9 +1457,27 @@
     },
     "done": true
   },
+  "adorn:recipes/jungle_post": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/mine": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -1481,6 +1529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
@@ -1517,6 +1571,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 03:33:18 +0000"
@@ -1544,6 +1604,18 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -1637,6 +1709,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
@@ -1658,6 +1742,12 @@
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -1685,9 +1775,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-15 03:50:58 +0000"
     },
     "done": true
   },
@@ -1874,6 +1976,12 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -2177,6 +2285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
@@ -2330,6 +2444,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 03:33:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -2561,6 +2681,12 @@
     },
     "done": true
   },
+  "adorn:recipes/jungle_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 03:33:18 +0000"
@@ -2735,6 +2861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2025-02-15 02:20:26 +0000"
@@ -2780,6 +2912,12 @@
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -2843,6 +2981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_orange_double": {
     "criteria": {
       "has_item": "2025-02-15 02:52:23 +0000"
@@ -2894,6 +3038,12 @@
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-02-15 02:44:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -3011,6 +3161,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-15 03:25:05 +0000"
@@ -3041,6 +3197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
@@ -3068,6 +3230,24 @@
   "cfm:recipes/decorations/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -3110,6 +3290,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-02-15 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/jungle_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
@@ -3278,6 +3464,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-02-15 03:00:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-02-15 03:49:09 +0000"
     },
     "done": true
   },
