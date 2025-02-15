@@ -1108,6 +1108,12 @@
     },
     "done": true
   },
+  "adorn:recipes/birch_shelf": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-15 02:29:48 +0000"
@@ -1438,6 +1444,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-02-15 06:04:56 +0000"
@@ -1654,6 +1666,12 @@
     },
     "done": true
   },
+  "adorn:recipes/birch_chair": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
@@ -1663,6 +1681,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_drawer": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
     },
     "done": true
   },
@@ -1930,6 +1954,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_platform": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
@@ -1951,6 +1981,12 @@
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_table": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
     },
     "done": true
   },
@@ -2005,6 +2041,12 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
     },
     "done": true
   },
@@ -2164,6 +2206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-15 06:16:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_grill": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
@@ -2305,6 +2353,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-15 06:16:37 +0000"
     },
     "done": true
   },
@@ -2581,6 +2635,18 @@
   "cfm:recipes/decorations/mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_platform": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
     },
     "done": true
   },
@@ -2932,9 +2998,21 @@
     },
     "done": true
   },
+  "adorn:recipes/birch_step": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-02-15 06:19:37 +0000"
     },
     "done": true
   },
@@ -2962,6 +3040,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
@@ -2977,6 +3061,12 @@
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_porkchop": "2025-02-15 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_table": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
     },
     "done": true
   },
@@ -3160,6 +3250,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_drawer": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-15 04:17:28 +0000"
@@ -3289,6 +3385,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-02-15 06:04:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
     },
     "done": true
   },
@@ -3436,6 +3538,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_chair": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
@@ -3523,6 +3631,12 @@
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
     },
     "done": true
   },
@@ -3640,6 +3754,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-15 06:16:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
@@ -3649,6 +3769,12 @@
   "adorn:recipes/white_sofa": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_shelf": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
     },
     "done": true
   },
@@ -3679,6 +3805,12 @@
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
     },
     "done": true
   },
@@ -3748,6 +3880,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_step": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-02-15 02:55:48 +0000"
@@ -3787,6 +3925,12 @@
   "cfm:recipes/decorations/stripped_jungle_coffee_table": {
     "criteria": {
       "has_planks": "2025-02-15 05:28:53 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:16:37 +0000"
     },
     "done": true
   },
@@ -3874,6 +4018,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
@@ -3895,6 +4045,12 @@
   "cfm:recipes/decorations/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2025-02-15 04:17:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-15 06:16:37 +0000"
     },
     "done": true
   },
@@ -4039,6 +4195,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-15 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-02-15 06:19:37 +0000"
     },
     "done": true
   },
@@ -4327,6 +4489,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-02-15 02:39:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-15 06:16:37 +0000"
     },
     "done": true
   },

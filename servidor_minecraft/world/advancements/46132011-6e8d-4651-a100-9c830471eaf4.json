@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-15 03:45:50 +0000"
@@ -290,6 +296,12 @@
   "botania:recipes/redstone/apothecary_default": {
     "criteria": {
       "has_item": "2025-02-15 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -563,6 +575,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
@@ -572,6 +590,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-02-15 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -659,6 +683,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
@@ -668,6 +698,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-15 05:33:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -1211,9 +1247,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -1232,6 +1280,12 @@
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -2021,6 +2075,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
@@ -2168,6 +2228,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-15 05:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -2396,6 +2462,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-02-15 03:12:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -2633,6 +2705,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-02-15 04:53:29 +0000",
@@ -2702,6 +2780,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
@@ -2717,6 +2801,12 @@
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -2753,6 +2843,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -2801,6 +2897,12 @@
   "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -3092,9 +3194,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
       "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -3113,6 +3227,18 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-15 05:33:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -3300,6 +3426,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -3423,6 +3555,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-15 03:14:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -3570,6 +3708,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:09 +0000"
@@ -3609,6 +3753,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-15 05:33:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -3909,6 +4059,12 @@
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -4218,6 +4374,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-15 05:33:52 +0000"
@@ -4272,6 +4434,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-15 04:37:14 +0000"
@@ -4293,6 +4461,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:53:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -4431,6 +4605,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -4666,6 +4846,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shovel": {
     "criteria": {
       "has_item": "2025-02-15 04:37:08 +0000"
@@ -4768,6 +4954,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
@@ -4786,6 +4978,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-02-15 03:04:49 +0000"
@@ -4801,6 +4999,12 @@
   "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-15 05:35:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },
@@ -4858,6 +5062,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:53:31 +0000"
@@ -4867,6 +5077,12 @@
   "cfm:recipes/decorations/birch_park_bench": {
     "criteria": {
       "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2025-02-15 06:20:50 +0000"
     },
     "done": true
   },

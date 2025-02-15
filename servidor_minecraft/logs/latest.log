@@ -3558,3 +3558,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 06:11:47.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
 [15Feb2025 06:12:02.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RnsRiven> zzzzz
 [15Feb2025 06:12:35.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[15Feb2025 06:15:55.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2378.500000, 70.500000, -1594.500000]
+[15Feb2025 06:15:55.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread hit the ground too hard
+[15Feb2025 06:18:04.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported RnsRiven to FilthyDread]
+[15Feb2025 06:18:41.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread went up in flames
+[15Feb2025 06:18:44.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread went up in flames
