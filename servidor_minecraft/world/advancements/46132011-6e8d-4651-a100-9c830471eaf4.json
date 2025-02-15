@@ -1391,6 +1391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-02-15 06:06:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 03:10:09 +0000"
@@ -3510,6 +3516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-02-15 06:06:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
@@ -5129,6 +5141,7 @@
       "minecraft:river": "2025-02-15 03:10:24 +0000",
       "minecraft:desert": "2025-02-15 05:36:05 +0000",
       "minecraft:jungle": "2025-02-15 05:43:09 +0000",
+      "minecraft:windswept_savanna": "2025-02-15 06:02:19 +0000",
       "minecraft:warm_ocean": "2025-02-15 05:35:43 +0000"
     },
     "done": false

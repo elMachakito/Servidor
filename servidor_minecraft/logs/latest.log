@@ -3538,3 +3538,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 06:01:51.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO was slain by Koboleton
 [15Feb2025 06:01:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2335.500000, 65.500000, -2385.500000]
 [15Feb2025 06:02:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[15Feb2025 06:03:53.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven is bleeding. RnsRiven went up in flames
+[15Feb2025 06:03:59.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was impaled by Drowned
+[15Feb2025 06:04:06.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Feb2025 06:04:18.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Feb2025 06:04:19.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Feb2025 06:04:21.150] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Feb2025 06:04:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was impaled by Drowned
+[15Feb2025 06:05:46.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Kobolediator
+[15Feb2025 06:06:43.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was shot by ELMACHAKITO
+[15Feb2025 06:07:02.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Kobolediator
+[15Feb2025 06:08:00.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 06:08:24.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[15Feb2025 06:08:35.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[15Feb2025 06:10:09.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread fell from a high place
+[15Feb2025 06:10:58.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2557.500000, 75.500000, -2082.500000]
+[15Feb2025 06:11:11.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]
+[15Feb2025 06:11:34.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> zzzzzzzzzz
+[15Feb2025 06:11:47.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 06:12:02.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <RnsRiven> zzzzz
+[15Feb2025 06:12:35.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
