@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-15 03:45:50 +0000"
@@ -62,6 +74,12 @@
   "cfm:recipes/decorations/blue_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },
@@ -101,6 +119,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -110,6 +134,12 @@
   "adorn:recipes/crate": {
     "criteria": {
       "has_key_item_0": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-02-15 03:58:53 +0000"
     },
     "done": true
   },
@@ -158,6 +188,12 @@
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-02-15 03:58:53 +0000"
     },
     "done": true
   },
@@ -227,6 +263,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
@@ -257,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-02-15 04:19:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:49:23 +0000"
@@ -281,9 +329,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
     },
     "done": true
   },
@@ -383,6 +443,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-02-15 03:12:39 +0000"
@@ -422,6 +488,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -488,6 +560,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },
@@ -599,15 +677,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-02-15 04:09:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_cobblestone": "2025-02-15 03:10:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
     },
     "done": true
   },
@@ -632,6 +728,18 @@
   "another_furniture:recipes/cherry_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-15 04:18:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -767,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
@@ -827,9 +941,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-15 04:22:42 +0000"
     },
     "done": true
   },
@@ -863,9 +989,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-15 04:21:39 +0000"
     },
     "done": true
   },
@@ -908,6 +1046,12 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2025-02-15 03:26:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },
@@ -986,6 +1130,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
     },
     "done": true
   },
@@ -1163,6 +1313,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -1181,6 +1337,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
@@ -1190,6 +1352,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-15 03:15:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },
@@ -1289,9 +1457,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -1385,6 +1565,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:49:23 +0000"
@@ -1403,6 +1589,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-02-15 03:10:41 +0000"
@@ -1418,6 +1610,12 @@
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-02-15 04:09:09 +0000"
     },
     "done": true
   },
@@ -1451,9 +1649,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-02-15 03:11:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-02-15 04:09:09 +0000"
     },
     "done": true
   },
@@ -1478,6 +1688,12 @@
   "adorn:recipes/picket_fence": {
     "criteria": {
       "has_key_item_0": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -1511,9 +1727,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-02-15 03:58:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_rod": {
+    "criteria": {
+      "has_stone": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },
@@ -1523,9 +1751,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
     },
     "done": true
   },
@@ -1538,6 +1784,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -1631,6 +1883,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
@@ -1640,6 +1898,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-15 04:21:39 +0000"
     },
     "done": true
   },
@@ -1658,6 +1922,18 @@
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-02-15 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-15 04:27:17 +0000"
     },
     "done": true
   },
@@ -1695,6 +1971,12 @@
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-02-15 04:09:09 +0000"
     },
     "done": true
   },
@@ -1782,6 +2064,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-02-15 04:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:49:23 +0000"
@@ -1842,9 +2130,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-02-15 04:09:09 +0000"
     },
     "done": true
   },
@@ -1908,6 +2208,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
@@ -1932,6 +2244,12 @@
     },
     "done": true
   },
+  "adorn:recipes/stone_torch": {
+    "criteria": {
+      "has_stone": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-15 03:14:20 +0000"
@@ -1947,6 +2265,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-02-15 03:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -2001,6 +2325,12 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },
@@ -2076,6 +2406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-15 04:30:21 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2025-02-15 03:16:47 +0000"
@@ -2098,6 +2434,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-15 03:28:38 +0000",
       "minecraft:spider": "2025-02-15 03:26:20 +0000",
+      "minecraft:creeper": "2025-02-15 04:19:55 +0000",
       "minecraft:zombie": "2025-02-15 03:26:12 +0000"
     },
     "done": false
@@ -2186,9 +2523,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
     },
     "done": true
   },
@@ -2240,6 +2589,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-02-15 03:58:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2025-02-15 03:04:49 +0000"
@@ -2267,6 +2622,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_post": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -2354,9 +2715,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -2402,6 +2775,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-02-15 03:02:15 +0000"
@@ -2423,6 +2802,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:53:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-15 04:22:42 +0000"
     },
     "done": true
   },
@@ -2498,6 +2883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:49:23 +0000"
@@ -2528,9 +2919,21 @@
     },
     "done": true
   },
+  "adorn:recipes/stone_ladder": {
+    "criteria": {
+      "has_stone": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
     },
     "done": true
   },
@@ -2543,6 +2946,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-02-15 04:30:21 +0000"
     },
     "done": true
   },
@@ -2612,6 +3021,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:16:47 +0000"
@@ -2648,6 +3063,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_table": {
     "criteria": {
       "has_planks": "2025-02-15 03:30:31 +0000"
@@ -2675,6 +3096,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -2765,6 +3192,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
     },
     "done": true
   },
@@ -2882,6 +3315,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-02-15 03:16:25 +0000"
@@ -2918,6 +3357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-15 04:30:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-02-15 03:10:08 +0000"
@@ -2948,6 +3393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-02-15 03:33:44 +0000"
@@ -2966,9 +3417,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:53:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -2986,6 +3455,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:49:23 +0000"
@@ -3001,6 +3476,12 @@
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-02-15 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
     },
     "done": true
   },
@@ -3100,6 +3581,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-02-15 03:52:44 +0000"
@@ -3130,6 +3617,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-02-15 04:09:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_table": {
     "criteria": {
       "has_planks": "2025-02-15 03:30:31 +0000"
@@ -3151,6 +3644,18 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -3190,6 +3695,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-15 04:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:53:31 +0000"
@@ -3199,6 +3710,12 @@
   "cfm:recipes/decorations/birch_park_bench": {
     "criteria": {
       "has_planks": "2025-02-15 03:33:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
     },
     "done": true
   },
@@ -3232,6 +3749,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 04:02:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-02-15 03:16:04 +0000"
@@ -3247,6 +3770,12 @@
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-15 04:14:20 +0000"
     },
     "done": true
   },
@@ -3274,6 +3803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
@@ -3283,6 +3818,12 @@
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2025-02-15 03:10:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },
@@ -3331,6 +3872,12 @@
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-02-15 03:04:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },
@@ -3407,9 +3954,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-02-15 04:14:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-15 03:10:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-15 04:22:42 +0000"
     },
     "done": true
   },
@@ -3452,6 +4017,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-15 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },
@@ -3524,6 +4095,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 04:00:09 +0000"
     },
     "done": true
   },

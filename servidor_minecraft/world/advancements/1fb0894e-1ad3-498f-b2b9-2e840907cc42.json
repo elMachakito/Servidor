@@ -2164,6 +2164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -2188,9 +2194,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_bench": {
     "criteria": {
       "has_slab": "2025-02-15 03:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
     },
     "done": true
   },
@@ -2203,6 +2221,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
     },
     "done": true
   },
@@ -2248,6 +2272,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
@@ -2284,6 +2314,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-15 02:34:36 +0000"
@@ -2299,6 +2335,18 @@
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-02-15 04:04:19 +0000"
     },
     "done": true
   },
@@ -2344,6 +2392,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-02-15 03:39:57 +0000"
@@ -2359,6 +2413,12 @@
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
     },
     "done": true
   },
@@ -2380,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/jungle_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
@@ -2389,6 +2455,12 @@
   "cfm:recipes/decorations/jungle_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
     },
     "done": true
   },
@@ -2434,6 +2506,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-02-15 04:04:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -2446,9 +2530,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-15 04:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-15 04:00:35 +0000"
     },
     "done": true
   },
@@ -2464,6 +2560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-15 04:04:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:49:07 +0000"
@@ -2473,6 +2575,12 @@
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-02-15 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -2515,6 +2623,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
     },
     "done": true
   },
@@ -2614,6 +2728,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-02-15 03:44:02 +0000"
@@ -2623,6 +2743,18 @@
   "cfm:recipes/decorations/gray_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -2716,9 +2848,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -2749,6 +2893,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -2788,9 +2938,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -2800,15 +2962,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:22:16 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -2830,6 +3016,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
@@ -2845,6 +3043,18 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -2884,6 +3094,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -2896,9 +3112,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_shutter": {
     "criteria": {
       "has_slab": "2025-02-15 03:29:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -2974,6 +3202,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
@@ -3010,6 +3256,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:49:07 +0000"
@@ -3019,6 +3271,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -3040,9 +3298,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/diorite_post": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-02-15 03:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -3106,6 +3382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
@@ -3133,6 +3415,12 @@
   "supplementaries:recipes/daub_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
     },
     "done": true
   },
@@ -3172,6 +3460,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-15 04:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/post_box": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -3181,6 +3481,18 @@
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -3196,15 +3508,57 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-02-15 04:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
     },
     "done": true
   },
@@ -3238,15 +3592,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/jungle_chair": {
     "criteria": {
       "has_slab": "2025-02-15 03:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -3298,6 +3670,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -3307,6 +3685,12 @@
   "another_furniture:recipes/black_sofa": {
     "criteria": {
       "has_wool": "2025-02-15 03:27:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -3346,6 +3730,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-15 04:00:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-02-15 02:22:16 +0000"
@@ -3358,9 +3754,27 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-15 03:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:49:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -3424,6 +3838,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-02-15 03:48:58 +0000"
@@ -3439,6 +3859,12 @@
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -3460,6 +3886,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
@@ -3469,6 +3901,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
     "criteria": {
       "forge:dyes/black": "2025-02-15 03:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -3502,6 +3940,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-15 04:04:19 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:22:16 +0000"
@@ -3511,6 +3961,12 @@
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
     },
     "done": true
   },
@@ -3532,6 +3988,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_tall_stool": {
     "criteria": {
       "has_wool": "2025-02-15 03:27:43 +0000"
@@ -3541,6 +4003,12 @@
   "cfm:recipes/decorations/brown_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -3562,9 +4030,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-02-15 03:48:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
     },
     "done": true
   },
@@ -3583,6 +4069,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-02-15 03:23:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -3607,6 +4099,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-02-15 03:27:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -3676,6 +4174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-15 04:00:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -3685,6 +4189,12 @@
   "cfm:recipes/decorations/fridge_light": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -3730,6 +4240,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-02-15 03:24:17 +0000"
@@ -3742,15 +4264,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/jungle_kitchen_cupboard": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -3778,6 +4318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-15 03:23:12 +0000"
@@ -3787,6 +4333,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
     },
     "done": true
   },
@@ -3856,6 +4408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-15 04:04:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_the_recipe": "2025-02-15 02:35:50 +0000"
@@ -3904,6 +4462,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
@@ -3946,6 +4510,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
@@ -3964,9 +4540,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_ladder": {
     "criteria": {
       "has_stone": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
     },
     "done": true
   },
@@ -4024,15 +4618,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
     },
     "done": true
   },
@@ -4054,6 +4666,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-02-15 03:27:49 +0000"
@@ -4072,6 +4690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-02-15 02:34:12 +0000"
@@ -4081,6 +4705,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-15 03:57:25 +0000"
     },
     "done": true
   },
@@ -4120,6 +4750,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
@@ -4150,6 +4786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-02-15 02:23:01 +0000"
@@ -4174,6 +4816,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/jungle_table": {
     "criteria": {
       "has_slab": "2025-02-15 03:29:04 +0000"
@@ -4183,6 +4831,12 @@
   "cfm:recipes/decorations/jungle_coffee_table": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-15 04:00:35 +0000"
     },
     "done": true
   },
@@ -4216,6 +4870,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -4240,6 +4900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-02-15 03:01:01 +0000"
@@ -4249,6 +4915,12 @@
   "cfm:recipes/decorations/black_sofa": {
     "criteria": {
       "has_wool": "2025-02-15 03:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-15 04:04:19 +0000"
     },
     "done": true
   },
@@ -4312,9 +4984,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
     },
     "done": true
   },
@@ -4342,9 +5026,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
     },
     "done": true
   },
@@ -4360,6 +5056,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
@@ -4372,9 +5074,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
     },
     "done": true
   },
@@ -4408,6 +5128,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-15 04:04:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/jungle_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
@@ -4426,6 +5158,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -4435,6 +5179,12 @@
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -4459,6 +5209,12 @@
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-02-15 03:57:02 +0000"
     },
     "done": true
   },
@@ -4528,6 +5284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -4576,9 +5338,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-15 04:04:19 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_curtain": {
     "criteria": {
       "has_wool": "2025-02-15 03:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-15 03:57:25 +0000"
     },
     "done": true
   },
@@ -4609,6 +5383,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-15 04:04:19 +0000"
     },
     "done": true
   },
