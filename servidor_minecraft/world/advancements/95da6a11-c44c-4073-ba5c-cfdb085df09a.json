@@ -3048,6 +3048,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-02-15 04:57:58 +0000"
+    },
+    "done": true
+  },
   "adorn:root": {
     "criteria": {
       "has_wool": "2025-02-15 02:33:01 +0000"
@@ -3189,6 +3195,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-15 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-02-15 04:57:58 +0000"
     },
     "done": true
   },
