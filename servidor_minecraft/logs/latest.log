@@ -3177,3 +3177,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 02:09:52.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kortight[/127.197.255.218:41697] logged in with entity id 1195 at (-332.39600700804306, 75.0, 67.07220765779574)
 [15Feb2025 02:09:52.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight joined the game
 [15Feb2025 02:09:52.495] [Server thread/INFO] [Jade/]: Syncing config to Kortight (9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16)
+[15Feb2025 02:10:05.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[15Feb2025 02:10:05.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[15Feb2025 02:10:33.969] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[15Feb2025 02:10:39.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.122.234.141:60357] logged in with entity id 1368 at (-341.53666866625565, 75.0, 77.09891525106865)
+[15Feb2025 02:10:39.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[15Feb2025 02:10:39.230] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[15Feb2025 02:11:34.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:12:08.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:13:06.539] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[15Feb2025 02:13:14.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SasukeUchiha7w7[/127.157.150.51:51549] logged in with entity id 2973 at (-343.1278876308749, 76.0, 65.74122937112749)
+[15Feb2025 02:13:14.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 joined the game
+[15Feb2025 02:13:14.351] [Server thread/INFO] [Jade/]: Syncing config to SasukeUchiha7w7 (7a6d05ea-f898-4824-9754-26bd3968ab2f)
+[15Feb2025 02:13:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Kortight
+[15Feb2025 02:14:00.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Zombie
+[15Feb2025 02:14:08.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight was slain by ELMACHAKITO
+[15Feb2025 02:14:13.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:14:46.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO fell from a high place
+[15Feb2025 02:16:17.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was blown up by Creeper
+[15Feb2025 02:16:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:16:38.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to ELMACHAKITO]
+[15Feb2025 02:16:43.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported 4 entities to ELMACHAKITO]
+[15Feb2025 02:16:59.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was shot by Skeleton
+[15Feb2025 02:17:03.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was shot by Skeleton
+[15Feb2025 02:17:09.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set the weather to clear]
+[15Feb2025 02:17:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO was shot by Skeleton
+[15Feb2025 02:17:24.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:17:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight was shot by Skeleton
+[15Feb2025 02:17:51.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=74, z=2}
+[15Feb2025 02:18:05.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:18:59.055] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1127, y=6, z=-1117}
+[15Feb2025 02:19:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:19:57.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:20:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Acquire Hardware]
+[15Feb2025 02:20:10.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Ghost

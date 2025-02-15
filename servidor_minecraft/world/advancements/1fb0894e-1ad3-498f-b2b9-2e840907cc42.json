@@ -35,8 +35,10 @@
       "rocky_shrubland": "2025-02-14 08:49:12 +0000",
       "maple_woods": "2025-02-14 08:26:21 +0000",
       "field": "2025-02-14 08:23:39 +0000",
+      "lavender_forest": "2025-02-15 02:12:25 +0000",
       "forested_field": "2025-02-14 08:16:17 +0000",
       "dune_beach": "2025-02-14 08:50:48 +0000",
+      "lavender_field": "2025-02-15 02:15:21 +0000",
       "grassland": "2025-02-14 08:22:10 +0000"
     },
     "done": false
@@ -74,6 +76,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-14 09:01:29 +0000",
+      "cooked_mutton": "2025-02-15 02:09:05 +0000",
       "cooked_beef": "2025-02-14 08:52:45 +0000",
       "rotten_flesh": "2025-02-14 08:21:32 +0000"
     },
@@ -2125,6 +2128,138 @@
   "another_furniture:recipes/light_gray_lamp": {
     "criteria": {
       "has_wool": "2025-02-15 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_rod": {
+    "criteria": {
+      "has_stone": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_torch": {
+    "criteria": {
+      "has_stone": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_ladder": {
+    "criteria": {
+      "has_stone": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
     },
     "done": true
   },

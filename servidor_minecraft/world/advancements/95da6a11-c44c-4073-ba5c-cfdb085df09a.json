@@ -35,8 +35,10 @@
       "rocky_shrubland": "2025-02-14 08:49:11 +0000",
       "clover_patch": "2025-02-14 08:27:27 +0000",
       "maple_woods": "2025-02-14 08:22:43 +0000",
+      "lavender_forest": "2025-02-15 02:13:17 +0000",
       "forested_field": "2025-02-14 06:53:33 +0000",
       "dune_beach": "2025-02-14 08:52:01 +0000",
+      "lavender_field": "2025-02-15 02:16:33 +0000",
       "grassland": "2025-02-14 08:27:35 +0000"
     },
     "done": false
@@ -623,6 +625,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-02-15 02:12:53 +0000",
       "minecraft:zombie": "2025-02-14 08:21:21 +0000"
     },
     "done": false
@@ -1077,12 +1080,6 @@
     },
     "done": true
   },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_01": "2025-02-15 01:22:56 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 01:20:37 +0000"
@@ -1173,21 +1170,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap": {
-    "criteria": {
-      "forge:ash": "2025-02-15 01:23:23 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/dark_oak_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 01:20:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-02-15 01:23:23 +0000"
     },
     "done": true
   },
@@ -1266,6 +1251,114 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-02-15 01:20:37 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-02-15 01:22:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-02-15 01:23:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-02-15 01:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-15 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-15 02:11:42 +0000"
     },
     "done": true
   },
