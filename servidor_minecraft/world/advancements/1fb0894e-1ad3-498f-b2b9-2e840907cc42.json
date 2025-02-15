@@ -2164,6 +2164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/gold_mine": {
     "criteria": {
       "has_mine": "2025-02-15 04:54:36 +0000"
@@ -2320,6 +2326,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-02-15 03:24:17 +0000"
@@ -2446,6 +2458,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 05:07:40 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_chair": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
@@ -2506,6 +2524,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/jungle_banister": {
     "criteria": {
       "has_item": "2025-02-15 03:29:04 +0000"
@@ -2515,6 +2539,12 @@
   "supplementaries:recipes/daub_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 05:07:40 +0000"
     },
     "done": true
   },
@@ -2962,6 +2992,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
@@ -3238,6 +3274,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_blinds": {
+    "criteria": {
+      "has_log": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
@@ -3247,6 +3289,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-02-15 03:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-15 05:25:34 +0000"
     },
     "done": true
   },
@@ -3472,6 +3520,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/jungle_step": {
     "criteria": {
       "has_slab": "2025-02-15 03:29:04 +0000"
@@ -3655,6 +3709,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-02-15 04:04:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-02-15 05:02:54 +0000"
     },
     "done": true
   },
@@ -3856,6 +3916,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-02-15 05:02:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
@@ -3937,6 +4003,12 @@
   "cfm:recipes/decorations/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:08:05 +0000"
     },
     "done": true
   },
@@ -4456,6 +4528,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-15 03:24:17 +0000"
@@ -4828,6 +4906,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
@@ -4909,6 +4993,12 @@
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:08:05 +0000"
     },
     "done": true
   },
@@ -5077,6 +5167,12 @@
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-02-15 03:01:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:08:05 +0000"
     },
     "done": true
   },
@@ -5254,6 +5350,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
@@ -5299,6 +5401,12 @@
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-02-15 05:08:05 +0000"
     },
     "done": true
   },
@@ -5416,6 +5524,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/furnace_mine": {
     "criteria": {
       "has_mine": "2025-02-15 04:54:36 +0000"
@@ -5431,6 +5545,12 @@
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-15 05:13:56 +0000"
     },
     "done": true
   },
