@@ -46,6 +46,7 @@
       "forested_field": "2025-02-14 06:53:33 +0000",
       "dryland": "2025-02-15 07:28:36 +0000",
       "wasteland": "2025-02-15 07:28:59 +0000",
+      "lush_desert": "2025-02-15 07:57:26 +0000",
       "redwood_forest": "2025-02-15 02:18:56 +0000",
       "dune_beach": "2025-02-14 08:52:01 +0000",
       "seasonal_forest": "2025-02-15 04:02:40 +0000",
@@ -5636,9 +5637,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-15 07:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-15 06:07:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 07:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-15 07:56:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-02-15 07:53:31 +0000"
     },
     "done": true
   },
@@ -5684,6 +5709,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-15 08:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-15 07:36:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_blue_double": {
     "criteria": {
       "has_item": "2025-02-15 07:29:39 +0000"
@@ -5711,6 +5748,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-15 06:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-15 08:07:43 +0000"
     },
     "done": true
   },
@@ -5744,9 +5787,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-15 08:07:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_black_double": {
     "criteria": {
       "has_item": "2025-02-15 07:29:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-15 07:55:49 +0000"
     },
     "done": true
   },
@@ -5765,6 +5820,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-15 07:56:34 +0000"
     },
     "done": true
   },
@@ -5810,6 +5871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-02-15 07:56:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-02-15 07:18:19 +0000"
@@ -5822,9 +5889,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-02-15 07:55:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/pink_shiny_flower": {
     "criteria": {
       "has_item": "2025-02-15 07:23:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 07:57:42 +0000"
     },
     "done": true
   },
@@ -5864,9 +5943,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-15 08:07:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_sofa": {
     "criteria": {
       "has_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-15 07:56:34 +0000"
     },
     "done": true
   },
@@ -5888,9 +5979,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-02-15 08:06:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-02-15 07:18:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-02-15 08:06:48 +0000"
     },
     "done": true
   },

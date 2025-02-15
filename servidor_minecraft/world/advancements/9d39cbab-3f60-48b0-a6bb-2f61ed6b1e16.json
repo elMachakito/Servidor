@@ -1128,6 +1128,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-02-15 07:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-02-15 02:44:37 +0000"
@@ -1266,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-15 08:02:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
@@ -1275,6 +1287,18 @@
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-02-15 07:18:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2025-02-15 07:46:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-15 08:03:11 +0000"
     },
     "done": true
   },
@@ -1524,6 +1548,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-02-15 07:46:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
@@ -1665,6 +1695,12 @@
   "cfm:recipes/decorations/red_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-02-15 08:10:19 +0000"
     },
     "done": true
   },
@@ -1920,6 +1956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-15 08:03:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
@@ -2085,6 +2127,12 @@
   "adorn:recipes/birch_coffee_table": {
     "criteria": {
       "has_slab": "2025-02-15 06:19:37 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-02-15 07:46:10 +0000"
     },
     "done": true
   },
@@ -2262,6 +2310,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/yellow_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-15 08:03:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-15 02:39:12 +0000"
@@ -2322,6 +2376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-15 08:03:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-02-15 04:17:14 +0000"
@@ -2331,6 +2391,12 @@
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-15 08:09:31 +0000"
     },
     "done": true
   },
@@ -2850,6 +2916,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/yellow_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 08:03:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-15 02:43:27 +0000"
@@ -3117,6 +3189,12 @@
   "adorn:recipes/birch_table": {
     "criteria": {
       "has_slab": "2025-02-15 06:19:37 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-02-15 08:00:07 +0000"
     },
     "done": true
   },
@@ -3402,6 +3480,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/yellow_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 08:03:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-15 04:04:29 +0000"
@@ -3411,6 +3495,12 @@
   "adorn:recipes/jungle_kitchen_cupboard": {
     "criteria": {
       "has_planks": "2025-02-15 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 08:03:11 +0000"
     },
     "done": true
   },
@@ -3642,6 +3732,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-02-15 07:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
@@ -3657,6 +3753,18 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-02-15 02:29:48 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/yellow_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 08:03:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-15 07:46:10 +0000"
     },
     "done": true
   },
@@ -4116,9 +4224,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-15 08:02:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-02-15 04:17:28 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 08:03:11 +0000"
     },
     "done": true
   },
@@ -4512,6 +4632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-15 08:03:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-02-15 02:38:39 +0000"
@@ -4671,6 +4797,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-02-15 08:10:19 +0000"
     },
     "done": true
   },
