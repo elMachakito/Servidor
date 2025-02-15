@@ -60,7 +60,8 @@
       "minecraft:beach": "2025-02-14 08:49:31 +0000",
       "minecraft:river": "2025-02-14 08:17:37 +0000",
       "minecraft:stony_shore": "2025-02-14 08:29:47 +0000",
-      "minecraft:ocean": "2025-02-14 08:51:10 +0000"
+      "minecraft:ocean": "2025-02-14 08:51:10 +0000",
+      "minecraft:plains": "2025-02-15 02:46:15 +0000"
     },
     "done": false
   },
@@ -1572,12 +1573,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flower_box": {
-    "criteria": {
-      "has_dirt": "2025-02-15 02:17:30 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2025-02-15 02:13:14 +0000"
@@ -1635,6 +1630,18 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-02-15 02:13:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-02-15 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-02-15 02:46:29 +0000"
     },
     "done": true
   },

@@ -454,6 +454,7 @@
       "minecraft:river": "2025-02-14 08:18:35 +0000",
       "minecraft:stony_shore": "2025-02-14 08:22:35 +0000",
       "minecraft:cold_ocean": "2025-02-14 08:31:46 +0000",
+      "minecraft:forest": "2025-02-15 02:43:27 +0000",
       "minecraft:ocean": "2025-02-14 08:50:50 +0000",
       "minecraft:plains": "2025-02-15 02:19:52 +0000"
     },
@@ -631,6 +632,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-15 02:35:39 +0000",
       "minecraft:spider": "2025-02-15 02:12:53 +0000",
+      "minecraft:creeper": "2025-02-15 02:39:05 +0000",
       "minecraft:zombie": "2025-02-14 08:21:21 +0000"
     },
     "done": false
