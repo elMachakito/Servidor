@@ -40,6 +40,7 @@
       "woodland": "2025-02-15 02:53:25 +0000",
       "shrubland": "2025-02-14 08:49:59 +0000",
       "rocky_shrubland": "2025-02-14 08:49:17 +0000",
+      "scrubland": "2025-02-15 07:14:33 +0000",
       "highland": "2025-02-15 02:33:57 +0000",
       "clover_patch": "2025-02-15 02:34:19 +0000",
       "old_growth_woodland": "2025-02-15 04:00:21 +0000",
@@ -113,6 +114,7 @@
       "minecraft:forest": "2025-02-15 02:42:58 +0000",
       "minecraft:ocean": "2025-02-14 08:51:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-15 02:48:45 +0000",
+      "minecraft:savanna": "2025-02-15 07:17:20 +0000",
       "minecraft:plains": "2025-02-15 02:19:58 +0000"
     },
     "done": false
@@ -1270,6 +1272,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:39:12 +0000"
@@ -1684,6 +1692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-15 07:10:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:02:51 +0000"
@@ -1834,6 +1848,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2025-02-15 07:14:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
@@ -1843,6 +1863,12 @@
   "adorn:recipes/chain_link_fence": {
     "criteria": {
       "has_key_item_0": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-15 07:10:54 +0000"
     },
     "done": true
   },
@@ -2524,6 +2550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-15 07:10:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/post_box": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
@@ -2533,6 +2565,12 @@
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:10 +0000"
     },
     "done": true
   },
@@ -4054,6 +4092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-15 07:10:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2025-02-15 04:17:14 +0000"
@@ -4357,6 +4401,12 @@
   "cfm:recipes/decorations/cyan_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 02:39:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:10 +0000"
     },
     "done": true
   },

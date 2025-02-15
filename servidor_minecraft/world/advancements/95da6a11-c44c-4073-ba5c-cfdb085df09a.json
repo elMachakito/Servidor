@@ -44,6 +44,8 @@
       "lavender_forest": "2025-02-15 02:13:17 +0000",
       "coniferous_forest": "2025-02-15 04:01:50 +0000",
       "forested_field": "2025-02-14 06:53:33 +0000",
+      "dryland": "2025-02-15 07:28:36 +0000",
+      "wasteland": "2025-02-15 07:28:59 +0000",
       "redwood_forest": "2025-02-15 02:18:56 +0000",
       "dune_beach": "2025-02-14 08:52:01 +0000",
       "seasonal_forest": "2025-02-15 04:02:40 +0000",
@@ -460,7 +462,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-02-15 07:28:14 +0000",
       "minecraft:birch_forest": "2025-02-15 03:59:05 +0000",
+      "minecraft:badlands": "2025-02-15 07:28:35 +0000",
       "minecraft:beach": "2025-02-14 08:37:20 +0000",
       "minecraft:river": "2025-02-14 08:18:35 +0000",
       "minecraft:lukewarm_ocean": "2025-02-15 05:12:44 +0000",
@@ -473,6 +477,7 @@
       "minecraft:windswept_savanna": "2025-02-15 06:01:04 +0000",
       "minecraft:warm_ocean": "2025-02-15 06:00:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-15 03:58:56 +0000",
+      "minecraft:savanna": "2025-02-15 07:17:55 +0000",
       "minecraft:plains": "2025-02-15 02:19:52 +0000"
     },
     "done": false
@@ -650,6 +655,7 @@
       "minecraft:skeleton": "2025-02-15 02:35:39 +0000",
       "minecraft:spider": "2025-02-15 02:12:53 +0000",
       "minecraft:creeper": "2025-02-15 02:39:05 +0000",
+      "minecraft:husk": "2025-02-15 07:29:31 +0000",
       "minecraft:zombie": "2025-02-14 08:21:21 +0000",
       "minecraft:drowned": "2025-02-15 04:31:35 +0000"
     },
@@ -5606,6 +5612,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-15 06:07:00 +0000"
@@ -5618,9 +5630,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2025-02-15 07:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-02-15 06:07:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-02-15 07:29:16 +0000"
     },
     "done": true
   },
@@ -5630,15 +5654,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-02-15 07:18:19 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-02-15 05:56:33 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2025-02-15 07:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-15 06:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_chiseled_sandstone": "2025-02-15 06:06:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue_double": {
+    "criteria": {
+      "has_item": "2025-02-15 07:29:39 +0000"
     },
     "done": true
   },
@@ -5666,6 +5714,24 @@
     },
     "done": true
   },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-02-15 05:57:21 +0000"
@@ -5678,9 +5744,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_black_double": {
+    "criteria": {
+      "has_item": "2025-02-15 07:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-15 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-15 07:07:25 +0000"
     },
     "done": true
   },
@@ -5690,9 +5774,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-02-15 07:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_chiseled_sandstone": "2025-02-15 06:06:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
     },
     "done": true
   },
@@ -5702,9 +5804,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_red_helmet": {
     "criteria": {
       "has_item": "2025-02-15 05:58:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-15 07:23:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-15 07:23:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
     },
     "done": true
   },
@@ -5714,15 +5846,51 @@
     },
     "done": true
   },
+  "adorn:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-15 05:51:27 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2025-02-15 06:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
     },
     "done": true
   },
@@ -5738,15 +5906,39 @@
     },
     "done": true
   },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-15 07:07:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-02-15 07:18:19 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_ceryneian_hind": {
     "criteria": {
       "location0": "2025-02-15 05:55:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-15 06:55:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-15 05:51:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-15 07:07:25 +0000"
     },
     "done": true
   },

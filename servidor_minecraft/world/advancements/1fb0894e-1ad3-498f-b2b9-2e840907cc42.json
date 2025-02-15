@@ -34,11 +34,13 @@
       "woodland": "2025-02-15 02:53:05 +0000",
       "shrubland": "2025-02-14 08:50:20 +0000",
       "rocky_shrubland": "2025-02-14 08:49:12 +0000",
+      "scrubland": "2025-02-15 07:17:18 +0000",
       "old_growth_woodland": "2025-02-15 02:53:32 +0000",
       "maple_woods": "2025-02-14 08:26:21 +0000",
       "field": "2025-02-14 08:23:39 +0000",
       "lavender_forest": "2025-02-15 02:12:25 +0000",
       "forested_field": "2025-02-14 08:16:17 +0000",
+      "dryland": "2025-02-15 07:30:42 +0000",
       "dune_beach": "2025-02-14 08:50:48 +0000",
       "lavender_field": "2025-02-15 02:15:21 +0000",
       "grassland": "2025-02-14 08:22:10 +0000",
@@ -91,6 +93,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-02-15 07:30:27 +0000",
       "minecraft:beach": "2025-02-14 09:01:21 +0000",
       "minecraft:river": "2025-02-14 09:02:12 +0000",
       "minecraft:stony_shore": "2025-02-14 08:21:43 +0000",
@@ -98,6 +101,7 @@
       "minecraft:forest": "2025-02-14 09:02:23 +0000",
       "minecraft:ocean": "2025-02-14 08:52:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-14 08:59:47 +0000",
+      "minecraft:savanna": "2025-02-15 07:17:32 +0000",
       "minecraft:plains": "2025-02-15 02:19:48 +0000"
     },
     "done": false
@@ -2165,6 +2169,18 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-02-15 07:15:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-02-15 03:23:12 +0000"
@@ -2186,6 +2202,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-02-15 04:11:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "interact": "2025-02-15 07:18:41 +0000"
     },
     "done": true
   },
@@ -2273,6 +2295,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
@@ -2288,6 +2316,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-02-15 02:34:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2025-02-15 07:17:55 +0000"
     },
     "done": true
   },
@@ -2591,9 +2625,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -2612,6 +2658,12 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-02-15 07:15:18 +0000"
     },
     "done": true
   },
@@ -2660,6 +2712,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-15 04:04:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -2786,6 +2844,12 @@
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-15 06:59:50 +0000"
     },
     "done": true
   },
@@ -2927,6 +2991,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2025-02-15 07:17:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-02-15 02:22:16 +0000"
@@ -2942,6 +3012,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-02-15 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-15 06:59:50 +0000"
     },
     "done": true
   },
@@ -2966,6 +3042,12 @@
   "cfm:recipes/decorations/light_blue_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-02-15 07:28:21 +0000"
     },
     "done": true
   },
@@ -3002,6 +3084,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-02-15 06:43:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-02-15 07:02:24 +0000"
     },
     "done": true
   },
@@ -3197,6 +3285,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-02-15 07:15:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
@@ -3230,6 +3324,12 @@
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-02-15 07:28:21 +0000"
     },
     "done": true
   },
@@ -3305,6 +3405,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-15 07:15:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:22:16 +0000"
@@ -3314,6 +3420,12 @@
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-02-15 06:43:56 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2025-02-15 07:18:34 +0000"
     },
     "done": true
   },
@@ -3431,9 +3543,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 07:02:24 +0000"
     },
     "done": true
   },
@@ -3554,6 +3678,12 @@
   "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
     "criteria": {
       "has_mine": "2025-02-15 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/deepslate_post": {
+    "criteria": {
+      "has_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -3719,6 +3849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-15 06:59:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-02-15 04:00:35 +0000"
@@ -3764,6 +3900,12 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -3905,6 +4047,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-02-15 07:14:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
@@ -3914,6 +4062,12 @@
   "adorn:recipes/birch_platform": {
     "criteria": {
       "has_slab": "2025-02-15 06:43:56 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-15 07:18:11 +0000"
     },
     "done": true
   },
@@ -3974,6 +4128,12 @@
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:22:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -4061,6 +4221,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-02-15 03:57:02 +0000"
@@ -4145,6 +4311,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-15 04:56:06 +0000"
@@ -4154,6 +4326,12 @@
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-02-15 03:48:58 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-15 07:18:11 +0000"
     },
     "done": true
   },
@@ -4517,6 +4695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-02-15 07:28:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/blast_furnace_mine": {
     "criteria": {
       "has_mine": "2025-02-15 04:54:36 +0000"
@@ -4592,6 +4776,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-02-15 03:01:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-02-15 07:02:09 +0000"
     },
     "done": true
   },
@@ -4682,6 +4872,12 @@
   "cfm:recipes/decorations/jungle_upgraded_gate": {
     "criteria": {
       "has_log": "2025-02-15 05:08:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -4979,6 +5175,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-02-15 03:25:34 +0000"
@@ -5051,6 +5253,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-02-15 07:15:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
@@ -5087,6 +5295,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-15 07:28:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-15 03:59:32 +0000"
@@ -5108,6 +5322,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -5150,6 +5370,12 @@
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-15 07:18:11 +0000"
     },
     "done": true
   },
@@ -5327,6 +5553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-15 07:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 03:39:57 +0000"
@@ -5411,6 +5643,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_coffee_table": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
@@ -5426,6 +5664,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 03:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -5501,6 +5745,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-02-15 07:15:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-02-15 03:01:01 +0000"
@@ -5528,6 +5778,18 @@
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-15 06:59:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -5663,6 +5925,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-02-15 07:29:38 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/birch_bench": {
     "criteria": {
       "has_slab": "2025-02-15 06:43:56 +0000"
@@ -5723,6 +5991,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-15 07:18:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-02-15 03:57:02 +0000"
@@ -5741,6 +6015,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-02-15 07:29:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 04:11:34 +0000"
@@ -5750,6 +6030,12 @@
   "securitycraft:recipes/building_blocks/netherrack_mine": {
     "criteria": {
       "has_mine": "2025-02-15 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -5861,6 +6147,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2025-02-15 06:56:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-02-15 03:57:02 +0000"
@@ -5888,6 +6180,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -5948,6 +6246,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-02-15 06:56:16 +0000"
     },
     "done": true
   },
@@ -6047,6 +6351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-15 07:28:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_planks": "2025-02-15 03:28:36 +0000"
@@ -6080,6 +6390,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-02-15 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-02-15 07:15:18 +0000"
     },
     "done": true
   },
