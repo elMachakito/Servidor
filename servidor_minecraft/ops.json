@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "1fb0894e-1ad3-498f-b2b9-2e840907cc42",
+    "name": "FilthyDread",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16",
+    "name": "Kortight",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "7a6d05ea-f898-4824-9754-26bd3968ab2f",
     "name": "SasukeUchiha7w7",
     "level": 4,

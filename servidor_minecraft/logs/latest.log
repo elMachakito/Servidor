@@ -3227,3 +3227,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 02:26:22.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
 [15Feb2025 02:29:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
 [15Feb2025 02:29:17.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 02:31:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:34:00.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 02:34:22.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:34:25.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Sweet Dreams]
+[15Feb2025 02:34:33.892] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1127, y=6, z=-1143}
+[15Feb2025 02:34:36.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Sweet Dreams]
+[15Feb2025 02:34:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Sweet Dreams]
+[15Feb2025 02:34:48.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Kicked SasukeUchiha7w7: Kicked by an operator]
+[15Feb2025 02:34:48.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 lost connection: Kicked by an operator
+[15Feb2025 02:34:48.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 left the game
+[15Feb2025 02:34:57.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:35:07.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <FilthyDread> LOL
+[15Feb2025 02:35:23.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <FilthyDread> zzzzzzzzzzzz
+[15Feb2025 02:35:33.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Not Today, Thank You]
+[15Feb2025 02:37:38.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Made FilthyDread a server operator]
+[15Feb2025 02:37:45.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Made Kortight a server operator]
+[15Feb2025 02:37:48.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELMACHAKITO> ./mca editor
+[15Feb2025 02:39:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Acquire Hardware]

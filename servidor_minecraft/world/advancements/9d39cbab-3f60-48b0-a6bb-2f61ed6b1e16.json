@@ -39,7 +39,10 @@
     "criteria": {
       "shrubland": "2025-02-14 08:49:59 +0000",
       "rocky_shrubland": "2025-02-14 08:49:17 +0000",
+      "highland": "2025-02-15 02:33:57 +0000",
+      "clover_patch": "2025-02-15 02:34:19 +0000",
       "field": "2025-02-14 08:27:11 +0000",
+      "orchard": "2025-02-15 02:32:30 +0000",
       "lavender_forest": "2025-02-15 02:12:48 +0000",
       "forested_field": "2025-02-14 08:21:12 +0000",
       "redwood_forest": "2025-02-15 02:18:31 +0000",
@@ -75,6 +78,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-02-15 02:33:43 +0000",
       "minecraft:zombie": "2025-02-14 08:26:12 +0000"
     },
     "done": false
@@ -94,6 +98,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-02-14 08:49:38 +0000",
+      "minecraft:river": "2025-02-15 02:28:17 +0000",
       "minecraft:stony_shore": "2025-02-14 08:32:40 +0000",
       "minecraft:ocean": "2025-02-14 08:51:16 +0000",
       "minecraft:plains": "2025-02-15 02:19:58 +0000"
@@ -1086,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:29:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
@@ -1098,9 +1109,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-15 02:34:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:29:48 +0000"
     },
     "done": true
   },
@@ -1158,6 +1187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:29:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
@@ -1185,6 +1220,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-02-15 02:29:48 +0000"
     },
     "done": true
   },
@@ -1281,6 +1322,12 @@
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:29:48 +0000"
     },
     "done": true
   },
@@ -1416,6 +1463,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:29:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
@@ -1425,6 +1478,12 @@
   "supplementaries:recipes/timber_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:29:48 +0000"
     },
     "done": true
   },
@@ -1482,6 +1541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:29:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
@@ -1491,6 +1556,12 @@
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-02-15 02:27:55 +0000"
     },
     "done": true
   },
@@ -1527,6 +1598,12 @@
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-02-15 02:29:48 +0000"
     },
     "done": true
   },
