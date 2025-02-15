@@ -3211,3 +3211,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 02:19:57.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
 [15Feb2025 02:20:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Acquire Hardware]
 [15Feb2025 02:20:10.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Ghost
+[15Feb2025 02:20:19.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO was slain by Ghost
+[15Feb2025 02:20:23.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 02:20:51.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Ghost
+[15Feb2025 02:21:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread hit the ground too hard whilst trying to escape Ghost
+[15Feb2025 02:21:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported FilthyDread to ELMACHAKITO]
+[15Feb2025 02:21:23.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight was slain by Ghost
+[15Feb2025 02:21:33.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=82, z=-12}
+[15Feb2025 02:21:33.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=82, z=-13}
+[15Feb2025 02:21:33.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=81, z=-13}
+[15Feb2025 02:21:34.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=80, z=-13}
+[15Feb2025 02:21:34.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 02:25:30.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Who You Gonna Call?]
+[15Feb2025 02:26:20.175] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-1707, y=72, z=-1141}
+[15Feb2025 02:26:22.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[15Feb2025 02:29:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to SasukeUchiha7w7]
+[15Feb2025 02:29:17.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]

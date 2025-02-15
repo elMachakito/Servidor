@@ -42,6 +42,7 @@
       "field": "2025-02-14 08:27:11 +0000",
       "lavender_forest": "2025-02-15 02:12:48 +0000",
       "forested_field": "2025-02-14 08:21:12 +0000",
+      "redwood_forest": "2025-02-15 02:18:31 +0000",
       "dune_beach": "2025-02-14 08:49:53 +0000",
       "lavender_field": "2025-02-15 02:16:44 +0000",
       "grassland": "2025-02-14 08:39:11 +0000"
@@ -94,7 +95,8 @@
     "criteria": {
       "minecraft:beach": "2025-02-14 08:49:38 +0000",
       "minecraft:stony_shore": "2025-02-14 08:32:40 +0000",
-      "minecraft:ocean": "2025-02-14 08:51:16 +0000"
+      "minecraft:ocean": "2025-02-14 08:51:16 +0000",
+      "minecraft:plains": "2025-02-15 02:19:58 +0000"
     },
     "done": false
   },
@@ -778,6 +780,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-15 02:22:24 +0000",
       "cooked_beef": "2025-02-14 08:52:55 +0000",
       "rotten_flesh": "2025-02-14 08:46:37 +0000"
     },
@@ -1119,6 +1122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-15 02:20:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-02-15 02:09:52 +0000"
@@ -1140,6 +1149,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-02-15 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-15 02:20:26 +0000"
     },
     "done": true
   },
@@ -1329,6 +1344,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-02-15 02:20:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-02-15 02:09:52 +0000"
@@ -1413,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-15 02:20:26 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/bamboo_drawer": {
     "criteria": {
       "has_planks": "2025-02-15 02:09:52 +0000"
@@ -1482,6 +1509,12 @@
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-15 02:20:26 +0000"
     },
     "done": true
   },
