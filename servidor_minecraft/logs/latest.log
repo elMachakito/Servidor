@@ -3455,3 +3455,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [15Feb2025 04:24:19.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was shot by Skeleton
 [15Feb2025 04:24:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven is bleeding. RnsRiven was blown up by Skeleton Creeper
 [15Feb2025 04:27:27.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Best Friends Forever]
+[15Feb2025 04:32:24.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 04:33:18.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 04:36:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 04:37:12.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 04:37:51.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to FilthyDread]
+[15Feb2025 04:38:30.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[15Feb2025 04:39:47.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[15Feb2025 04:39:59.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[15Feb2025 04:40:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was killed by Witch using magic
+[15Feb2025 04:40:56.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[15Feb2025 04:42:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported RnsRiven to ELMACHAKITO]
+[15Feb2025 04:42:35.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Made RnsRiven a server operator]
+[15Feb2025 04:43:50.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported FilthyDread to ELMACHAKITO]
+[15Feb2025 04:44:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Amateur Archaeologist]
+[15Feb2025 04:49:16.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to RnsRiven]
+[15Feb2025 04:50:53.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RnsRiven has made the advancement [Ice Bucket Challenge]
+[15Feb2025 04:52:23.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <FilthyDread> a mimir UwU

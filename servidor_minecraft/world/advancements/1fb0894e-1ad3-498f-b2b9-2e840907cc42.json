@@ -3988,6 +3988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-15 04:43:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-15 04:05:25 +0000"
@@ -4063,6 +4069,12 @@
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 03:24:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-02-15 04:42:03 +0000"
     },
     "done": true
   },
@@ -4267,6 +4279,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-02-15 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-02-15 04:42:03 +0000"
     },
     "done": true
   },
@@ -4804,6 +4822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-15 04:43:01 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_flower_box": {
     "criteria": {
       "has_slab": "2025-02-15 03:29:04 +0000"
@@ -5323,6 +5347,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 02:08:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-15 04:43:01 +0000"
     },
     "done": true
   },

@@ -1338,6 +1338,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-15 04:18:05 +0000"
@@ -1359,6 +1365,12 @@
   "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-15 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-15 04:44:36 +0000"
     },
     "done": true
   },
@@ -1470,6 +1482,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-02-15 04:51:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:20:09 +0000"
@@ -1479,6 +1497,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-15 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-15 04:51:09 +0000"
     },
     "done": true
   },
@@ -1536,6 +1560,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-02-15 03:57:18 +0000"
@@ -1557,6 +1587,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-15 02:18:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -1644,6 +1680,12 @@
     },
     "done": true
   },
+  "adorn:recipes/traders_manual": {
+    "criteria": {
+      "has_key_item_0": "2025-02-15 04:51:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-15 03:01:08 +0000"
@@ -1725,6 +1767,12 @@
   "cfm:recipes/decorations/jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-02-15 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -1893,6 +1941,12 @@
   "adorn:recipes/jungle_post": {
     "criteria": {
       "has_jungle_planks": "2025-02-15 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -2112,6 +2166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-15 04:44:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-15 02:24:08 +0000"
@@ -2280,6 +2340,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-15 03:01:08 +0000"
@@ -2331,6 +2397,12 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2025-02-15 02:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-15 04:51:09 +0000"
     },
     "done": true
   },
@@ -2556,6 +2628,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-15 04:37:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-15 03:01:08 +0000"
@@ -2592,6 +2670,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-15 04:51:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-02-15 02:24:08 +0000"
@@ -2610,9 +2694,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-15 04:51:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_planks": "2025-02-15 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-15 04:51:09 +0000"
     },
     "done": true
   },
@@ -2754,6 +2850,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-02-15 03:01:26 +0000"
@@ -2889,6 +2991,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-15 02:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-15 04:44:36 +0000"
     },
     "done": true
   },
@@ -3102,6 +3210,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-15 04:44:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-02-15 03:37:19 +0000"
@@ -3183,6 +3297,12 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-15 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -3492,6 +3612,12 @@
     },
     "done": true
   },
+  "adorn:recipes/guide_book": {
+    "criteria": {
+      "has_key_item_0": "2025-02-15 04:51:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-15 04:18:05 +0000"
@@ -3531,6 +3657,12 @@
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2025-02-15 02:24:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -3612,6 +3744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-15 04:51:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_trampoline": {
     "criteria": {
       "has_iron": "2025-02-15 02:20:09 +0000"
@@ -3684,6 +3822,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-15 02:59:59 +0000"
@@ -3711,6 +3855,12 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-02-15 02:25:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -3798,6 +3948,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_purple_double": {
+    "criteria": {
+      "has_item": "2025-02-15 04:37:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-02-15 03:16:06 +0000"
@@ -3840,6 +4002,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-02-15 02:59:59 +0000"
@@ -3873,6 +4041,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:20:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -3915,6 +4089,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-15 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-15 04:51:23 +0000"
     },
     "done": true
   },
@@ -4026,6 +4206,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_table": {
     "criteria": {
       "has_planks": "2025-02-15 04:07:10 +0000"
@@ -4113,6 +4299,12 @@
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:33:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-15 04:51:23 +0000"
     },
     "done": true
   },
@@ -4314,6 +4506,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-02-15 04:51:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_violet": {
     "criteria": {
       "has_flower": "2025-02-15 04:00:38 +0000"
@@ -4356,6 +4560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2025-02-15 04:51:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:33:01 +0000"
@@ -4383,6 +4593,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-15 04:16:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_hedge": {
+    "criteria": {
+      "has_leaves": "2025-02-15 04:43:28 +0000"
     },
     "done": true
   },
@@ -4428,6 +4644,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-02-15 04:37:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:20:09 +0000"
@@ -4470,9 +4692,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-15 04:51:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-15 02:33:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-02-15 04:51:23 +0000"
     },
     "done": true
   },
@@ -4518,6 +4752,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-15 04:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-02-15 03:16:06 +0000"
@@ -4557,6 +4797,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-15 03:24:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -4650,6 +4896,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-15 04:51:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 02:20:09 +0000"
@@ -4671,6 +4923,12 @@
   "cfm:recipes/decorations/jungle_park_bench": {
     "criteria": {
       "has_planks": "2025-02-15 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -4701,6 +4959,12 @@
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-02-15 02:59:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-15 04:51:23 +0000"
     },
     "done": true
   },
@@ -4914,6 +5178,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-15 04:51:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-02-15 03:57:18 +0000"
@@ -4929,6 +5205,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-02-15 02:33:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
@@ -4983,6 +5265,12 @@
   "cfm:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_planks": "2025-02-15 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-15 04:48:29 +0000"
     },
     "done": true
   },
