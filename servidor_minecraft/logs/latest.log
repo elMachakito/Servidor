@@ -3174,3 +3174,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [16Feb2025 07:36:17.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was shot by Mutant Skeleton
 [16Feb2025 07:36:37.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread was shot by Mutant Skeleton
 [16Feb2025 07:40:30.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -1737.500000, 120.500000, -794.500000]
+[16Feb2025 07:41:06.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Feb2025 07:41:06.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tpttp ffakiu<--[HERE]
+[16Feb2025 07:41:12.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Feb2025 07:41:12.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fakiu<--[HERE]
+[16Feb2025 07:41:23.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[16Feb2025 07:42:00.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2021.500000, 63.500000, -129.500000]
+[16Feb2025 07:42:09.622] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-1989, y=70, z=69}
+[16Feb2025 07:42:18.085] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-1787, y=75, z=27}
+[16Feb2025 07:42:19.056] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1787, y=75, z=27} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[16Feb2025 07:42:19.056] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1787, y=75, z=27}
+[16Feb2025 07:42:39.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2233.500000, 73.500000, -1152.500000]
+[16Feb2025 07:42:59.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Kortight: fakiu
+[16Feb2025 07:43:17.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Invitation to the Tea Party]
+[16Feb2025 07:43:30.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[16Feb2025 07:43:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Invitation to the Tea Party]
+[16Feb2025 07:43:56.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Spooky Scary Skeleton]
+[16Feb2025 07:44:05.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was slain by Fire Dragon
+[16Feb2025 07:44:38.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 was slain by Fire Dragon
+[16Feb2025 07:44:52.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2223.500000, 72.500000, -1150.500000]
+[16Feb2025 07:45:19.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 walked into fire whilst fighting Fire Dragon
+[16Feb2025 07:45:20.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Acolyte
+[16Feb2025 07:45:27.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to Kortight]
+[16Feb2025 07:45:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Invitation to the Tea Party]
+[16Feb2025 07:45:30.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 burned to death
+[16Feb2025 07:45:38.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Source of Evil]
+[16Feb2025 07:45:38.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to Kortight]
+[16Feb2025 07:45:45.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to Kortight]
+[16Feb2025 07:46:20.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Acolyte
+[16Feb2025 07:46:38.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by SasukeUchiha7w7
+[16Feb2025 07:48:08.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2396.500000, 65.500000, -1588.500000]
+[16Feb2025 07:48:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Acolyte
+[16Feb2025 07:49:22.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2376.500000, 75.500000, -1587.500000]
+[16Feb2025 07:50:22.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Source of Evil]
+[16Feb2025 07:50:41.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to 682.500000, 63.500000, 837.500000]

@@ -108,6 +108,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-02-15 04:28:51 +0000",
       "minecraft:beach": "2025-02-14 08:49:38 +0000",
+      "minecraft:dark_forest": "2025-02-16 07:43:36 +0000",
       "minecraft:lukewarm_ocean": "2025-02-15 03:25:13 +0000",
       "minecraft:river": "2025-02-15 02:28:17 +0000",
       "minecraft:stony_shore": "2025-02-14 08:32:40 +0000",
@@ -4939,9 +4940,63 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-16 07:44:22 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-02-16 07:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-16 07:43:52 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/candlelit_lantern": {
+    "criteria": {
+      "has_candle": "2025-02-16 07:44:19 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/purple_candlelit_lantern": {
+    "criteria": {
+      "has_candle": "2025-02-16 07:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 07:44:22 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-02-16 07:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 07:44:22 +0000"
+    },
+    "done": true
+  },
   "mca:marriage": {
     "criteria": {
       "iron": "2025-02-16 07:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-16 07:43:52 +0000"
     },
     "done": true
   },

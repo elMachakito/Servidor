@@ -59,8 +59,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-02-14 08:49:31 +0000",
+      "minecraft:dark_forest": "2025-02-16 07:45:27 +0000",
       "minecraft:river": "2025-02-14 08:17:37 +0000",
       "minecraft:stony_shore": "2025-02-14 08:29:47 +0000",
+      "minecraft:forest": "2025-02-16 07:42:40 +0000",
       "minecraft:ocean": "2025-02-14 08:51:10 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-15 02:53:07 +0000",
       "minecraft:plains": "2025-02-15 02:46:15 +0000"
@@ -3706,6 +3708,192 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-02-15 07:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-16 07:46:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-02-16 07:39:57 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/traders_manual": {
+    "criteria": {
+      "has_key_item_0": "2025-02-16 07:46:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-02-16 07:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-16 07:47:06 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_post": {
+    "criteria": {
+      "has_mahogany_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-02-16 07:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 07:46:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 07:46:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 07:46:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-02-16 07:47:06 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/guide_book": {
+    "criteria": {
+      "has_key_item_0": "2025-02-16 07:46:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-16 07:46:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-16 07:45:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-16 07:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-16 07:47:06 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-16 07:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-16 07:41:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-16 07:46:57 +0000"
     },
     "done": true
   },
