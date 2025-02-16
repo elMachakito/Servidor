@@ -3208,3 +3208,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [16Feb2025 07:49:22.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2376.500000, 75.500000, -1587.500000]
 [16Feb2025 07:50:22.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Source of Evil]
 [16Feb2025 07:50:41.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to 682.500000, 63.500000, 837.500000]
+[16Feb2025 07:51:04.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 lost connection: Timed out
+[16Feb2025 07:51:04.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 left the game
+[16Feb2025 07:51:04.623] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 07:51:17.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[16Feb2025 07:51:22.685] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[16Feb2025 07:51:29.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SasukeUchiha7w7[/127.157.150.51:39475] logged in with entity id 11901 at (668.6999999880791, 63.0, 831.0715042422441)
+[16Feb2025 07:51:29.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 joined the game
+[16Feb2025 07:51:29.708] [Server thread/INFO] [Jade/]: Syncing config to SasukeUchiha7w7 (7a6d05ea-f898-4824-9754-26bd3968ab2f)
+[16Feb2025 07:51:50.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 has made the advancement [Amateur Archaeologist]
+[16Feb2025 07:52:24.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Acolyte
+[16Feb2025 07:52:43.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Acolyte
+[16Feb2025 07:53:37.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Acolyte
+[16Feb2025 07:53:49.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2392.500000, 65.500000, -1587.500000]
+[16Feb2025 07:54:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2427.500000, 69.500000, -1610.500000]
+[16Feb2025 07:54:00.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Acolyte
+[16Feb2025 07:54:03.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Acolyte
+[16Feb2025 07:54:14.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2378.500000, 66.500000, -1588.500000]
+[16Feb2025 07:54:15.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to SasukeUchiha7w7]
+[16Feb2025 07:54:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[16Feb2025 07:55:14.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2425.500000, 69.500000, -1611.500000]
+[16Feb2025 07:57:34.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2367.500000, 100.500000, -1503.500000]
+[16Feb2025 07:57:47.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[16Feb2025 07:58:01.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2367.500000, 100.500000, -1503.500000]
+[16Feb2025 07:58:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Orc with Shield
+[16Feb2025 07:58:23.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to Kortight]
+[16Feb2025 07:59:16.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2021.500000, 63.500000, -129.500000]
+[16Feb2025 08:00:42.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[16Feb2025 08:01:43.822] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-2315, y=80, z=85}
+[16Feb2025 08:01:44.491] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2315, y=80, z=85} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[16Feb2025 08:01:44.491] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-2315, y=80, z=85}
+[16Feb2025 08:03:03.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2369.500000, 112.500000, -1501.500000]
+[16Feb2025 08:03:36.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 hit the ground too hard
+[16Feb2025 08:03:42.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 hit the ground too hard
+[16Feb2025 08:03:54.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2373.500000, 102.500000, -1494.500000]
+[16Feb2025 08:06:01.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[16Feb2025 08:06:33.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to FilthyDread]
+[16Feb2025 08:07:44.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2424.500000, 74.500000, -1608.500000]
+[16Feb2025 08:08:34.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Cover Me with Diamonds]
+[16Feb2025 08:12:51.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Acolyte
+[16Feb2025 08:13:08.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Acolyte
+[16Feb2025 08:13:20.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Acolyte
+[16Feb2025 08:13:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to SasukeUchiha7w7]
+[16Feb2025 08:13:53.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[16Feb2025 08:16:42.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread moved wrongly!
+[16Feb2025 08:20:00.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2021.500000, 63.500000, -129.500000]
+[16Feb2025 08:21:46.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -1913.500000, 72.500000, 8.500000]
+[16Feb2025 08:22:08.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to Kortight]
+[16Feb2025 08:24:59.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <FilthyDread> xaero-waypoint:Casa Home:C:-2374:70:-1584:3:false:0:Internal-overworld-waypoints
+[16Feb2025 08:25:09.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2377.500000, 75.500000, -1589.500000]
+[16Feb2025 08:25:27.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2426.500000, 74.500000, -1611.500000]
+[16Feb2025 08:25:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[16Feb2025 08:27:35.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2373.500000, 75.500000, -1591.500000]
+[16Feb2025 08:30:16.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[16Feb2025 08:39:08.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Chores]
+[16Feb2025 08:41:15.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Local Brewery]
