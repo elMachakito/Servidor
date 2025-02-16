@@ -3282,3 +3282,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [16Feb2025 09:00:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Cursed Pyramid]
 [16Feb2025 09:01:36.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 lost connection: Disconnected
 [16Feb2025 09:01:36.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 left the game
+[16Feb2025 09:02:41.801] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SasukeUchiha7w7 is 7a6d05ea-f898-4824-9754-26bd3968ab2f
+[16Feb2025 09:02:49.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SasukeUchiha7w7[/127.157.150.51:50671] logged in with entity id 38463 at (-2424.300000011921, -52.0, -1654.8737996459365)
+[16Feb2025 09:02:49.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 joined the game
+[16Feb2025 09:02:49.189] [Server thread/INFO] [Jade/]: Syncing config to SasukeUchiha7w7 (7a6d05ea-f898-4824-9754-26bd3968ab2f)
+[16Feb2025 09:03:20.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Koboleton
+[16Feb2025 09:03:50.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was slain by Kobolediator
+[16Feb2025 09:04:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[16Feb2025 09:04:10.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to Kortight]
+[16Feb2025 09:04:36.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[16Feb2025 09:04:46.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[16Feb2025 09:07:02.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to 834.500000, 92.500000, 858.500000]
+[16Feb2025 09:07:39.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kortight lost connection: Timed out
+[16Feb2025 09:07:39.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight left the game
+[16Feb2025 09:07:45.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread lost connection: Timed out
+[16Feb2025 09:07:45.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread left the game
+[16Feb2025 09:07:49.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 lost connection: Timed out
+[16Feb2025 09:07:49.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 left the game
+[16Feb2025 09:08:10.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Feb2025 09:08:10.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[16Feb2025 09:08:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Feb2025 09:08:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp<--[HERE]
+[16Feb2025 09:08:30.195] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Kortight is 9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16
+[16Feb2025 09:08:59.486] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7d96730c[id=9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16,name=Kortight,properties={textures=[com.mojang.authlib.properties.Property@47195be5]},legacy=false] (/127.197.255.218:56185): Took too long to log in
+[16Feb2025 09:08:59.488] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d96730c[id=9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16,name=Kortight,properties={textures=[com.mojang.authlib.properties.Property@47195be5]},legacy=false] (/127.197.255.218:56185) lost connection: Took too long to log in
+[16Feb2025 09:08:59.531] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 09:09:14.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Feb2025 09:09:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Feb2025 09:09:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Feb2025 09:09:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Feb2025 09:09:15.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Feb2025 09:09:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[16Feb2025 09:09:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Feb2025 09:09:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[16Feb2025 09:09:16.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Feb2025 09:09:16.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Feb2025 09:09:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[16Feb2025 09:09:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Feb2025 09:09:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16Feb2025 09:09:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Feb2025 09:09:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Feb2025 09:09:17.183] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16Feb2025 09:09:17.183] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml

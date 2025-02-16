@@ -87,10 +87,12 @@
       "cooked_porkchop": "2025-02-14 09:01:29 +0000",
       "cooked_mutton": "2025-02-15 02:09:05 +0000",
       "cooked_beef": "2025-02-14 08:52:45 +0000",
+      "apple": "2025-02-16 09:04:57 +0000",
       "bread": "2025-02-15 03:01:30 +0000",
       "rotten_flesh": "2025-02-14 08:21:32 +0000",
       "cookie": "2025-02-15 03:25:32 +0000",
       "melon_slice": "2025-02-15 03:44:21 +0000",
+      "golden_carrot": "2025-02-16 09:04:50 +0000",
       "cooked_chicken": "2025-02-15 08:43:47 +0000",
       "cooked_salmon": "2025-02-16 08:31:20 +0000"
     },
@@ -7584,9 +7586,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-16 09:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-02-16 08:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-16 09:01:13 +0000"
     },
     "done": true
   },
@@ -7620,6 +7634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-16 08:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-02-16 08:06:27 +0000"
@@ -7632,9 +7652,21 @@
     },
     "done": true
   },
+  "adorn:recipes/smooth_sandstone_post": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-16 09:01:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-02-16 08:27:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-02-16 08:57:43 +0000"
     },
     "done": true
   },
@@ -7704,6 +7736,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-16 09:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-16 09:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-02-16 07:43:56 +0000"
@@ -7722,6 +7766,12 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-02-16 09:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-02-16 08:27:29 +0000"
@@ -7731,6 +7781,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-16 07:43:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-02-16 08:59:25 +0000"
     },
     "done": true
   },
@@ -7854,6 +7910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-16 08:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-02-16 08:11:36 +0000"
@@ -7878,6 +7940,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-16 09:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-16 09:01:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-16 08:11:25 +0000"
@@ -7893,6 +7967,12 @@
   "adorn:recipes/white_candlelit_lantern": {
     "criteria": {
       "has_candle": "2025-02-16 08:25:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_ceryneian_hind": {
+    "criteria": {
+      "location0": "2025-02-16 08:58:37 +0000"
     },
     "done": true
   },
