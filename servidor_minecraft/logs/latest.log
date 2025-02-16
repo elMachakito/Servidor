@@ -3263,3 +3263,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:pink_biosh
 [16Feb2025 08:30:16.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
 [16Feb2025 08:39:08.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Chores]
 [16Feb2025 08:41:15.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Local Brewery]
+[16Feb2025 08:42:12.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2426.500000, 74.500000, -1612.500000]
+[16Feb2025 08:42:36.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to SasukeUchiha7w7]
+[16Feb2025 08:48:13.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2454.500000, 77.500000, -2351.500000]
+[16Feb2025 08:48:27.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was blown up by Death Worm
+[16Feb2025 08:48:34.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to Kortight]
+[16Feb2025 08:49:17.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 is bleeding. SasukeUchiha7w7 was killed
+[16Feb2025 08:49:17.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Killed SasukeUchiha7w7]
+[16Feb2025 08:49:24.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 was killed
+[16Feb2025 08:50:11.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2446.500000, 74.500000, -2345.500000]
+[16Feb2025 08:50:14.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SasukeUchiha7w7: Teleported SasukeUchiha7w7 to -2394.500000, 7.500000, -1653.500000]
+[16Feb2025 08:50:16.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2373.500000, 70.500000, -1583.500000]
+[16Feb2025 08:57:30.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2446.500000, 74.500000, -2345.500000]
+[16Feb2025 08:57:43.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Eye of The Storm]
+[16Feb2025 09:00:12.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[16Feb2025 09:00:33.992] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Feb2025 09:00:48.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Cursed Pyramid]
+[16Feb2025 09:00:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Cursed Pyramid]
+[16Feb2025 09:01:36.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SasukeUchiha7w7 lost connection: Disconnected
+[16Feb2025 09:01:36.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SasukeUchiha7w7 left the game

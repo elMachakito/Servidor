@@ -107,6 +107,7 @@
       "minecraft:stony_shore": "2025-02-14 08:21:43 +0000",
       "minecraft:cold_ocean": "2025-02-14 08:31:43 +0000",
       "minecraft:forest": "2025-02-14 09:02:23 +0000",
+      "minecraft:desert": "2025-02-16 08:48:13 +0000",
       "minecraft:ocean": "2025-02-14 08:52:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-14 08:59:47 +0000",
       "minecraft:savanna": "2025-02-15 07:17:32 +0000",
@@ -7571,6 +7572,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-16 08:41:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-02-16 08:12:20 +0000"
@@ -7700,6 +7707,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-02-16 07:43:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mug": {
+    "criteria": {
+      "has_glass_bottle": "2025-02-16 08:38:05 +0000"
     },
     "done": true
   },
