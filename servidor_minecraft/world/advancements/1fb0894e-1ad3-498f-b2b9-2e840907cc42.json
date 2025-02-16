@@ -7441,21 +7441,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-02-15 08:37:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/myrmex_resin": {
-    "criteria": {
-      "resin": "2025-02-15 08:45:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-02-15 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-15 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-15 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-15 08:37:18 +0000"
     },
     "done": true
   },
@@ -7477,18 +7483,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/myrmex_resin_desert": {
-    "criteria": {
-      "has_item": "2025-02-15 08:45:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2025-02-15 08:41:38 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/gray_tall_stool": {
     "criteria": {
       "has_wool": "2025-02-15 08:37:18 +0000"
@@ -7507,12 +7501,6 @@
     },
     "done": true
   },
-  "botania:recipes/tools/virus_nullodermal": {
-    "criteria": {
-      "has_alt_item": "2025-02-15 08:41:37 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/gray_curtain": {
     "criteria": {
       "has_wool": "2025-02-15 08:37:18 +0000"
@@ -7525,15 +7513,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+  "another_furniture:recipes/gray_sofa": {
     "criteria": {
-      "has_chicken": "2025-02-15 08:36:13 +0000"
+      "has_wool": "2025-02-15 08:37:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
+  "botania:recipes/tools/virus_nullodermal": {
     "criteria": {
-      "has_chicken": "2025-02-15 08:36:13 +0000"
+      "has_alt_item": "2025-02-15 08:41:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-02-15 08:41:38 +0000"
     },
     "done": true
   },
@@ -7543,9 +7537,15 @@
     },
     "done": true
   },
-  "another_furniture:recipes/gray_sofa": {
+  "iceandfire:iceandfire/myrmex_resin": {
     "criteria": {
-      "has_wool": "2025-02-15 08:37:18 +0000"
+      "resin": "2025-02-15 08:45:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_desert": {
+    "criteria": {
+      "has_item": "2025-02-15 08:45:41 +0000"
     },
     "done": true
   },
