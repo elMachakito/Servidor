@@ -3453,3 +3453,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 03:32:10.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Skeleton]
 [28Apr2025 03:32:21.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Spider]
 [28Apr2025 03:32:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Creeper]
+[28Apr2025 03:45:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Spectator Mode]
+[28Apr2025 03:45:58.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Survival Mode]

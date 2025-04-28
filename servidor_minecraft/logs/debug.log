@@ -11975,3 +11975,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 03:37:51.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/13874, l='ServerLevel[world]', x=-2337.13, y=69.00, z=-1566.82, removed=DISCARDED]
 [28Apr2025 03:38:35.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Apr2025 03:38:35.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 03:43:35.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 03:43:35.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 03:45:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Spectator Mode]
+[28Apr2025 03:45:58.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Survival Mode]
+[28Apr2025 03:46:49.864] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[28Apr2025 03:47:42.280] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=14ab7922-0000-0000-0000-000000000000, length=131, extra={valid=false}}, startingAt=0, player=null}
+[28Apr2025 03:47:43.679] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=14ab7922-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[28Apr2025 03:48:35.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 03:48:35.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
