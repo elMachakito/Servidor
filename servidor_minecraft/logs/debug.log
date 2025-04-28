@@ -12031,3 +12031,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 03:58:03.067] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 95da6a11-c44c-4073-ba5c-cfdb085df09a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=09e265cc-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
 [28Apr2025 03:58:35.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Apr2025 03:58:35.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:00:44.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2418, y=68, z=-1546} BlockPos{x=-2417, y=67, z=-1541}
+[28Apr2025 04:01:53.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2429, y=65, z=-1551} BlockPos{x=-2417, y=69, z=-1541}
+[28Apr2025 04:03:35.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 04:03:35.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:03:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Light Switch] to ELMACHAKITO]
+[28Apr2025 04:08:35.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 04:08:35.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

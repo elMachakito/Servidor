@@ -3455,3 +3455,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 03:32:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Creeper]
 [28Apr2025 03:45:13.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Spectator Mode]
 [28Apr2025 03:45:58.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Survival Mode]
+[28Apr2025 04:00:44.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2418, y=68, z=-1546} BlockPos{x=-2417, y=67, z=-1541}
+[28Apr2025 04:01:53.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2429, y=65, z=-1551} BlockPos{x=-2417, y=69, z=-1541}
+[28Apr2025 04:03:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Light Switch] to ELMACHAKITO]
