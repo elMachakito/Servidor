@@ -3458,3 +3458,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 04:00:44.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2418, y=68, z=-1546} BlockPos{x=-2417, y=67, z=-1541}
 [28Apr2025 04:01:53.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2429, y=65, z=-1551} BlockPos{x=-2417, y=69, z=-1541}
 [28Apr2025 04:03:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Light Switch] to ELMACHAKITO]
+[28Apr2025 04:15:53.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[28Apr2025 04:15:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[28Apr2025 04:16:06.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Apr2025 04:16:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Apr2025 04:16:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Apr2025 04:16:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Apr2025 04:16:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Apr2025 04:16:07.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[28Apr2025 04:16:07.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Apr2025 04:16:07.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[28Apr2025 04:16:07.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Apr2025 04:16:07.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Apr2025 04:16:07.534] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Apr2025 04:16:07.535] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml

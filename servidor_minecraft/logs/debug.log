@@ -12038,3 +12038,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 04:03:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Light Switch] to ELMACHAKITO]
 [28Apr2025 04:08:35.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Apr2025 04:08:35.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:13:35.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 04:13:35.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:15:35.281] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: New dummy
+[28Apr2025 04:15:45.174] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[28Apr2025 04:15:45.174] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 2, server=907960553, client=907960553
+[28Apr2025 04:15:53.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[28Apr2025 04:15:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[28Apr2025 04:16:06.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Apr2025 04:16:06.853] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[28Apr2025 04:16:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Apr2025 04:16:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Apr2025 04:16:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Apr2025 04:16:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Apr2025 04:16:07.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[28Apr2025 04:16:07.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Apr2025 04:16:07.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[28Apr2025 04:16:07.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Apr2025 04:16:07.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 04:16:07.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:16:07.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Apr2025 04:16:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Apr2025 04:16:07.501] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[28Apr2025 04:16:07.501] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$76bb1f$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[28Apr2025 04:16:07.501] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$76bb1f$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[28Apr2025 04:16:07.507] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[28Apr2025 04:16:07.507] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[28Apr2025 04:16:07.523] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for graveyard:past
+[28Apr2025 04:16:07.523] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for graveyard:past
+[28Apr2025 04:16:07.523] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[28Apr2025 04:16:07.523] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[28Apr2025 04:16:07.524] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[28Apr2025 04:16:07.524] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[28Apr2025 04:16:07.524] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[28Apr2025 04:16:07.524] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[28Apr2025 04:16:07.534] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Apr2025 04:16:07.535] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Apr2025 04:16:07.551] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
