@@ -3444,3 +3444,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Apr2025 03:15:09.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Zombie]
 [28Apr2025 03:15:45.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
 [28Apr2025 03:15:45.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[28Apr2025 03:30:40.463] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[28Apr2025 03:30:45.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.27.132.9:55111] logged in with entity id 10734 at (-2407.03258347921, 63.0, -1584.931618037148)
+[28Apr2025 03:30:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[28Apr2025 03:30:45.764] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[28Apr2025 03:31:08.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Zombie]
+[28Apr2025 03:31:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Zombie]
+[28Apr2025 03:32:10.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Skeleton]
+[28Apr2025 03:32:21.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Spider]
+[28Apr2025 03:32:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Summoned new Creeper]
