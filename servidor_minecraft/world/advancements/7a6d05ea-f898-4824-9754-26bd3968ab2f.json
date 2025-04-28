@@ -39,13 +39,23 @@
     "criteria": {
       "shrubland": "2025-02-14 08:18:54 +0000",
       "rocky_shrubland": "2025-02-14 08:49:14 +0000",
+      "scrubland": "2025-02-19 04:31:13 +0000",
+      "erupting_inferno": "2025-02-19 05:40:39 +0000",
       "clover_patch": "2025-02-14 08:27:33 +0000",
       "maple_woods": "2025-02-14 08:26:32 +0000",
+      "crystalline_chasm": "2025-02-19 05:43:15 +0000",
+      "withered_abyss": "2025-02-19 05:44:52 +0000",
+      "orchard": "2025-02-18 06:01:17 +0000",
+      "mediterranean_forest": "2025-02-19 04:30:20 +0000",
       "forested_field": "2025-02-14 08:16:32 +0000",
+      "redwood_forest": "2025-02-18 06:03:39 +0000",
       "dune_beach": "2025-02-14 08:49:36 +0000",
+      "volcano": "2025-02-19 04:48:59 +0000",
+      "pasture": "2025-02-18 05:57:05 +0000",
       "lavender_field": "2025-02-15 02:16:44 +0000",
       "grassland": "2025-02-14 08:39:24 +0000",
       "glowing_grotto": "2025-02-14 08:28:02 +0000",
+      "undergrowth": "2025-02-19 05:33:48 +0000",
       "rainforest": "2025-02-15 02:55:07 +0000"
     },
     "done": false
@@ -58,6 +68,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-02-18 06:04:47 +0000",
+      "minecraft:sunflower_plains": "2025-02-18 05:22:44 +0000",
+      "minecraft:windswept_hills": "2025-02-18 06:03:58 +0000",
       "minecraft:beach": "2025-02-14 08:49:31 +0000",
       "minecraft:dark_forest": "2025-02-16 07:45:27 +0000",
       "minecraft:river": "2025-02-14 08:17:37 +0000",
@@ -779,8 +792,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-17 08:48:00 +0000",
+      "minecraft:blaze": "2025-02-19 05:37:54 +0000",
       "minecraft:skeleton": "2025-02-14 08:42:14 +0000",
-      "minecraft:zombie": "2025-02-15 02:15:12 +0000"
+      "minecraft:vindicator": "2025-02-17 08:49:50 +0000",
+      "minecraft:magma_cube": "2025-02-19 05:37:00 +0000",
+      "minecraft:spider": "2025-02-18 05:27:24 +0000",
+      "minecraft:witch": "2025-02-17 08:34:25 +0000",
+      "minecraft:enderman": "2025-02-18 05:25:46 +0000",
+      "minecraft:zombie": "2025-02-15 02:15:12 +0000",
+      "minecraft:drowned": "2025-02-18 05:08:19 +0000"
     },
     "done": false
   },
@@ -892,6 +913,7 @@
       "cooked_beef": "2025-02-15 02:50:39 +0000",
       "beef": "2025-02-14 08:51:55 +0000",
       "apple": "2025-02-16 07:52:46 +0000",
+      "mutton": "2025-02-27 06:32:23 +0000",
       "bread": "2025-02-15 02:58:24 +0000",
       "golden_apple": "2025-02-15 07:04:20 +0000",
       "rotten_flesh": "2025-02-15 02:50:31 +0000"
@@ -5167,6 +5189,4398 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-16 08:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-17 07:35:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-02-17 07:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-17 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-17 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-17 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-17 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-17 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/deepslate_tile_post": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-17 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-17 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-17 07:44:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2025-02-17 07:44:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cracked_deepslate_tiles": {
+    "criteria": {
+      "has_item": "2025-02-17 07:44:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab": {
+    "criteria": {
+      "has_block": "2025-02-17 07:44:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2025-02-17 07:44:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall": {
+    "criteria": {
+      "has_block": "2025-02-17 07:44:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_reinforced_deepslate_tiles": "2025-02-17 07:44:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs": {
+    "criteria": {
+      "has_block": "2025-02-17 07:44:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_sentry": {
+    "criteria": {
+      "has_sentry": "2025-02-17 07:46:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cyan_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/brown_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/green_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/red_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/purple_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/light_blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lime_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/pink_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/magenta_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/orange_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/yellow_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/light_gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/white_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/black_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-02-17 07:47:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-02-17 07:48:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-02-17 07:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 07:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-17 07:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-17 07:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-17 07:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-17 07:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-17 07:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-17 07:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-17 07:57:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-17 07:58:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-17 07:58:50 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-02-17 08:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-17 08:06:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_magenta_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-02-17 08:06:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "forge:dyes/magenta": "2025-02-17 08:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-17 08:06:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_magenta_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-02-17 08:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-17 08:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-17 08:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-17 08:06:15 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-17 08:07:07 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-17 08:07:07 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-17 08:07:07 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-02-17 08:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-17 08:09:40 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-02-17 08:10:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:platform": {
+    "criteria": {
+      "has_platform": "2025-02-17 08:11:25 +0000"
+    },
+    "done": true
+  },
+  "adorn:everything": {
+    "criteria": {
+      "has_platform": "2025-02-17 08:11:25 +0000"
+    },
+    "done": false
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-02-17 08:14:15 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-02-17 08:14:15 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-02-17 08:14:15 +0000"
+    },
+    "done": true
+  },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-02-17 08:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_deepslate_post": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-02-17 08:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/deepslate_brick_post": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-02-17 08:35:21 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-02-17 08:46:47 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-02-17 08:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-17 08:50:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-18 05:02:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-18 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-18 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-02-18 05:14:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-18 05:17:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-02-18 05:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-18 05:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-18 05:23:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_stool": {
+    "criteria": {
+      "has_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-18 05:29:03 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-18 05:29:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_post": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-02-18 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:46:42 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:46:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-02-18 05:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-18 05:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-18 05:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-18 05:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-18 05:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-18 05:49:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-18 05:49:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 05:56:02 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2025-02-18 05:56:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 05:56:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/chain": {
+    "criteria": {
+      "has_ingot": "2025-02-18 05:56:02 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 05:56:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/bar_panel": {
+    "criteria": {
+      "has_ingot": "2025-02-18 05:56:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/black_candlelit_lantern": {
+    "criteria": {
+      "has_candle": "2025-02-18 05:58:15 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_andesite_platform": {
+    "criteria": {
+      "has_slab": "2025-02-18 05:58:21 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_andesite_step": {
+    "criteria": {
+      "has_slab": "2025-02-18 05:58:21 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2025-02-18 05:58:27 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_platform": {
+    "criteria": {
+      "has_slab": "2025-02-18 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_step": {
+    "criteria": {
+      "has_slab": "2025-02-18 05:58:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-02-18 05:58:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-02-18 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-02-18 05:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-18 05:59:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-02-18 05:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-18 05:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-18 05:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-18 05:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-18 05:59:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-18 06:00:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-18 06:00:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-02-18 06:01:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-02-18 06:01:51 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/lattice": {
+    "criteria": {
+      "has_stick": "2025-02-18 06:02:20 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/basic_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-02-18 06:02:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-02-18 06:02:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-02-18 06:02:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-02-18 06:03:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-02-18 06:04:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-18 06:04:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-02-18 06:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-18 06:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-18 06:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-18 06:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-18 06:06:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-02-18 06:07:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_alt_item": "2025-02-18 06:07:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_jacaranda": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_post": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/jacaranda_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-18 06:08:02 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_chair": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_shelf": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_platform": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_step": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_table": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_drawer": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-18 06:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-02-18 06:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-02-18 06:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-02-18 06:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-02-18 06:10:27 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_step": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:10:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-02-18 06:10:30 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_platform": {
+    "criteria": {
+      "has_slab": "2025-02-18 06:10:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-02-18 06:10:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-02-18 06:10:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-02-18 06:12:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-02-18 06:12:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lens_normal": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/forest_eye": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-02-18 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-18 06:12:47 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 06:12:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 06:12:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-02-18 06:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-18 06:12:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-02-18 06:15:50 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-02-18 06:15:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-18 06:15:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/animated_torch": {
+    "criteria": {
+      "has_item": "2025-02-18 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-18 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/short_iron_door": {
+    "criteria": {
+      "has_items": "2025-02-18 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_iron_door": {
+    "criteria": {
+      "has_items": "2025-02-18 06:17:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-02-18 06:17:46 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-02-18 06:17:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_sand_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/suspicious_gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2025-02-18 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "duckling:pet_duck": {
+    "criteria": {
+      "pet_duck": "2025-02-18 06:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-18 06:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 06:26:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/granite_post": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-18 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-19 04:31:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-02-19 04:31:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-02-19 04:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-19 04:32:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_post": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-19 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-02-19 04:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-02-19 04:51:10 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_palisade": {
+    "criteria": {
+      "has_log": "2025-02-19 04:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-19 05:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-02-19 05:01:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 05:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-19 05:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-19 05:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-19 05:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-19 05:07:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-02-19 05:55:10 +0000",
+      "potato": "2025-02-19 05:08:22 +0000",
+      "wheat": "2025-02-19 07:06:37 +0000",
+      "melon": "2025-02-19 07:06:35 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2025-02-19 05:13:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-02-19 05:13:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-02-19 05:17:05 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mug": {
+    "criteria": {
+      "has_glass_bottle": "2025-02-19 05:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-19 05:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-19 05:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-19 05:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-19 05:34:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-19 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-19 05:35:41 +0000",
+      "minecraft:soul_sand_valley": "2025-02-19 05:43:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-19 05:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-19 05:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-19 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-19 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-19 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-19 05:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-19 05:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-19 05:37:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-02-19 05:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-19 05:37:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-19 05:41:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-19 05:41:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-19 05:41:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-19 05:41:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-02-19 05:41:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-02-19 05:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-19 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-19 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-19 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-02-19 05:43:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-19 05:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-19 05:50:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-19 05:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-19 05:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-19 05:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-19 05:53:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-19 05:59:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-02-19 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-19 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-19 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-02-19 05:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-02-19 05:59:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-19 06:32:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/ims": {
+    "criteria": {
+      "has_radar": "2025-02-19 06:34:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-02-19 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-19 06:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-19 06:42:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_black_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "forge:dyes/black": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-19 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/rift_stabilizer": {
+    "criteria": {
+      "has_iron": "2025-02-19 06:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-19 06:47:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-02-19 06:47:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-02-19 06:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-02-19 06:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-19 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-19 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-19 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-19 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 06:49:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-19 06:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-19 06:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-19 06:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-19 06:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-19 06:50:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-02-19 06:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-19 06:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-02-19 07:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-19 07:12:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_planks": "2025-02-27 06:13:34 +0000",
+      "canopy_sapling": "2025-02-27 06:12:59 +0000",
+      "canopy_log": "2025-02-27 06:12:57 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_fence": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-27 06:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-02-27 06:23:11 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/twilightforest/sign_post_canopy": {
+    "criteria": {
+      "has_planks": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-02-27 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_chest": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_plate": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-27 06:26:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_cobblestone_post": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-27 06:43:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-02-27 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_door": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_planks": {
+    "criteria": {
+      "has_item": "2025-02-27 06:12:57 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_stone_brick_platform": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:21:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-02-27 06:37:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_sign": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_stone_brick_post": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-27 06:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-27 06:43:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-27 06:16:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_wood": {
+    "criteria": {
+      "has_item": "2025-02-27 06:12:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_button": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-27 06:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-27 06:43:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-27 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mossy_stone_brick_step": {
+    "criteria": {
+      "has_slab": "2025-02-27 06:21:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-02-27 06:22:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-27 05:39:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_gate": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-27 06:13:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2025-02-27 06:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-27 06:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-27 06:43:14 +0000"
     },
     "done": true
   },

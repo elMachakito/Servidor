@@ -1,0 +1,45 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-17 07:27:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-02-17 07:27:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "forested_field": "2025-02-17 07:27:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-17 07:27:29 +0000"
+    },
+    "done": true
+  },
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2025-02-17 07:27:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "forested_field": "2025-02-17 07:27:30 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-17 07:27:29 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
