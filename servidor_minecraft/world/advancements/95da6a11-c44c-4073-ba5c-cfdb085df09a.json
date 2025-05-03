@@ -11573,6 +11573,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
@@ -11585,9 +11591,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_cyan_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-03 09:00:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-05-03 07:59:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-03 08:28:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-03 08:35:14 +0000"
     },
     "done": true
   },
@@ -11615,6 +11639,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-03 08:28:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-03 09:00:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
@@ -11633,6 +11669,30 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/purple_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-03 08:55:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-03 09:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-03 08:34:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:08:32 +0000"
@@ -11645,9 +11705,39 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cyan_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-03 09:00:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:08:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2025-05-03 08:40:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2025-05-03 08:56:02 +0000"
     },
     "done": true
   },
@@ -11657,9 +11747,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_hydroangeas": {
+    "criteria": {
+      "has_item": "2025-05-03 09:00:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:08:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
     },
     "done": true
   },
@@ -11669,9 +11777,45 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_spreader": {
+    "criteria": {
+      "has_item": "2025-05-03 08:40:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2025-05-03 08:40:29 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2025-05-03 08:37:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_blue": {
+    "criteria": {
+      "has_item": "2025-05-03 09:00:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:08:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-03 08:37:12 +0000"
     },
     "done": true
   },
@@ -11684,6 +11828,18 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-05-03 07:59:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
     },
     "done": true
   },
@@ -11711,15 +11867,39 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_purple": {
+    "criteria": {
+      "has_item": "2025-05-03 08:55:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2025-05-03 08:40:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-05-03 07:59:55 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-03 08:37:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-05-03 07:59:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
     },
     "done": true
   },
@@ -11735,9 +11915,33 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-05-03 08:37:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_green_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-03 08:28:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:08:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2025-05-03 08:28:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/redstone_spreader": {
+    "criteria": {
+      "has_item": "2025-05-03 08:56:02 +0000"
     },
     "done": true
   },
@@ -11753,9 +11957,39 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-03 08:55:56 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2025-05-03 08:52:30 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_cyan": {
+    "criteria": {
+      "has_item": "2025-05-03 09:00:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
     },
     "done": true
   },
@@ -11777,6 +12011,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:08:32 +0000"
@@ -11795,6 +12035,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-03 08:34:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-03 08:35:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
@@ -11804,6 +12056,18 @@
   "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-05-03 08:40:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
     },
     "done": true
   },
@@ -11825,9 +12089,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2025-05-03 08:40:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2025-05-03 08:40:08 +0000"
     },
     "done": true
   },
@@ -11837,9 +12119,33 @@
     },
     "done": true
   },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2025-05-03 08:40:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_item": "2025-05-03 08:35:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2025-05-03 09:00:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2025-05-03 08:52:30 +0000"
     },
     "done": true
   },
@@ -11849,9 +12155,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2025-05-03 08:37:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-03 08:34:55 +0000"
     },
     "done": true
   },
@@ -11861,9 +12179,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-03 09:00:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:08:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2025-05-03 08:48:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-03 08:35:14 +0000"
     },
     "done": true
   },

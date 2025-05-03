@@ -43,16 +43,20 @@
       "crystalline_chasm": "2025-02-19 05:43:13 +0000",
       "withered_abyss": "2025-02-17 09:50:13 +0000",
       "field": "2025-02-14 08:23:39 +0000",
+      "orchard": "2025-05-03 08:49:55 +0000",
       "lavender_forest": "2025-02-15 02:12:25 +0000",
       "moor": "2025-02-16 08:02:50 +0000",
       "forested_field": "2025-02-14 08:16:17 +0000",
       "dryland": "2025-02-15 07:30:42 +0000",
       "wasteland": "2025-02-21 07:15:17 +0000",
+      "redwood_forest": "2025-05-03 08:57:04 +0000",
       "wasteland_steppe": "2025-02-21 07:15:33 +0000",
       "dune_beach": "2025-02-14 08:50:48 +0000",
       "volcano": "2025-02-19 04:49:08 +0000",
+      "pasture": "2025-05-03 08:46:17 +0000",
       "lavender_field": "2025-02-15 02:15:21 +0000",
       "grassland": "2025-02-14 08:22:10 +0000",
+      "prairie": "2025-05-03 08:44:44 +0000",
       "glowing_grotto": "2025-02-15 03:50:34 +0000",
       "undergrowth": "2025-02-17 08:54:12 +0000",
       "rainforest": "2025-02-15 02:54:00 +0000"
@@ -1533,6 +1537,7 @@
       "minecraft:wither_skeleton": "2025-02-17 09:51:58 +0000",
       "minecraft:piglin": "2025-02-17 09:58:03 +0000",
       "minecraft:enderman": "2025-02-15 06:32:36 +0000",
+      "minecraft:silverfish": "2025-05-03 08:56:22 +0000",
       "minecraft:zombie": "2025-02-14 08:43:41 +0000",
       "minecraft:drowned": "2025-02-15 03:35:51 +0000"
     },
@@ -12041,6 +12046,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:04:45 +0000"
@@ -12056,6 +12073,30 @@
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-03 08:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
     },
     "done": true
   },
@@ -12083,9 +12124,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
     },
     "done": true
   },
@@ -12107,9 +12172,57 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/lens_normal": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-03 08:49:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
     },
     "done": true
   },
@@ -12125,6 +12238,30 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-03 08:56:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:04:41 +0000"
@@ -12137,9 +12274,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:04:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
     },
     "done": true
   },
@@ -12149,15 +12310,45 @@
     },
     "done": true
   },
+  "adorn:recipes/granite_post": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-03 08:13:52 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
       "has_item": "2025-05-03 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
     },
     "done": true
   },
@@ -12179,6 +12370,30 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-03 08:13:52 +0000"
@@ -12197,9 +12412,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-03 08:43:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/forest_eye": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:04:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
     },
     "done": true
   },
@@ -12221,6 +12508,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:04:41 +0000"
@@ -12233,15 +12526,69 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:04:41 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
     },
     "done": true
   },
@@ -12263,9 +12610,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
     },
     "done": true
   },
@@ -12281,15 +12670,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_chestplate": {
     "criteria": {
       "has_item": "2025-05-03 08:20:54 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-03 08:13:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
     },
     "done": true
   },
@@ -12317,6 +12730,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:04:45 +0000"
@@ -12329,9 +12748,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-03 08:13:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
     },
     "done": true
   },
@@ -12341,15 +12772,75 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-03 08:13:52 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-03 08:43:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
     },
     "done": true
   },
@@ -12365,9 +12856,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-05-03 08:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
     },
     "done": true
   },
@@ -12383,9 +12904,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
     },
     "done": true
   },
@@ -12428,6 +12973,18 @@
   "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-03 08:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-03 08:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-03 08:49:59 +0000"
     },
     "done": true
   },
