@@ -7202,6 +7202,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-05-03 09:03:08 +0000"
@@ -7214,15 +7220,33 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-03 11:36:32 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-05-03 09:21:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-05-03 09:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-03 11:37:38 +0000"
     },
     "done": true
   },
@@ -7244,6 +7268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:16 +0000"
+    },
+    "done": true
+  },
   "adorn:table": {
     "criteria": {
       "has_table": "2025-05-03 10:14:03 +0000"
@@ -7256,6 +7286,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:16 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-05-03 11:34:01 +0000"
+    },
+    "done": true
+  },
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2025-05-03 11:25:40 +0000"
@@ -7265,6 +7307,12 @@
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-05-03 09:03:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:16 +0000"
     },
     "done": true
   },
@@ -7322,9 +7370,21 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-03 11:37:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-05-03 10:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:16 +0000"
     },
     "done": true
   },

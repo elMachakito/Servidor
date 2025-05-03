@@ -12306,6 +12306,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-03 11:37:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-05-03 10:31:18 +0000"
@@ -12528,6 +12534,12 @@
     },
     "done": true
   },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-05-03 11:34:28 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-05-03 08:58:57 +0000"
@@ -12591,6 +12603,12 @@
   "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-05-03 11:31:02 +0000"
     },
     "done": true
   },
@@ -12987,6 +13005,12 @@
   "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-03 08:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-03 11:37:30 +0000"
     },
     "done": true
   },

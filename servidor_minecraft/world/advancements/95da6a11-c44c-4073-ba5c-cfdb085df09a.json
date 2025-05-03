@@ -12639,6 +12639,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dodge_ring": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
@@ -12717,6 +12723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/obedience_stick": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
@@ -12765,6 +12777,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-03 11:37:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shears": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
@@ -12798,6 +12816,12 @@
   "botania:recipes/decorations/pump": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
     },
     "done": true
   },
@@ -12927,9 +12951,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/water_rod": {
+    "criteria": {
+      "has_item": "2025-05-03 11:32:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/spell_cloth": {
     "criteria": {
       "has_item": "2025-05-03 11:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
     },
     "done": true
   },
@@ -12972,6 +13008,12 @@
   "botania:recipes/tools/knockback_belt": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
     },
     "done": true
   },
@@ -13209,6 +13251,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-03 11:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-05-03 10:38:28 +0000"
@@ -13218,6 +13266,12 @@
   "botania:recipes/misc/dye_red": {
     "criteria": {
       "has_item": "2025-05-03 10:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
     },
     "done": true
   },

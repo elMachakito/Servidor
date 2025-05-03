@@ -3972,3 +3972,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 11:28:13.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2421.500000, 75.500000, -1582.500000]
 [03May2025 11:28:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
 [03May2025 11:30:58.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 11:33:07.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Glass Bottle] to ELMACHAKITO]
+[03May2025 11:34:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [A Realistical Logical Ideologist]
+[03May2025 11:34:12.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[03May2025 11:34:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [A Realistical Logical Ideologist]
+[03May2025 11:35:00.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2567.500000, -5.500000, -367.500000]
+[03May2025 11:35:00.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[03May2025 11:35:13.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2388.500000, 65.500000, -1587.500000]
+[03May2025 11:35:41.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2567.500000, -5.500000, -367.500000]
+[03May2025 11:36:07.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2388.500000, 65.500000, -1587.500000]
+[03May2025 11:36:20.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[03May2025 11:36:32.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 30 [Raw Beef] to 3]
+[03May2025 11:36:41.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 20 [Steak] to 3]
+[03May2025 11:36:53.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 11:37:07.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2567.500000, -5.500000, -367.500000]
+[03May2025 11:37:17.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2388.500000, 65.500000, -1587.500000]
+[03May2025 11:37:18.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[03May2025 11:37:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2567.500000, -5.500000, -367.500000]
+[03May2025 11:37:30.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [The End?]
+[03May2025 11:37:32.249] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[03May2025 11:37:32.262] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[03May2025 11:37:32.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[03May2025 11:37:38.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [The End?]
+[03May2025 11:37:38.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[03May2025 11:37:44.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [The End?]
+[03May2025 11:37:44.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 11:40:07.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Enderman
+[03May2025 11:40:16.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:40:36.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was doomed to fall by Ender Dragon
+[03May2025 11:40:40.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:40:43.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight was doomed to fall by Ender Dragon
+[03May2025 11:40:52.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:41:01.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was doomed to fall by Ender Dragon
+[03May2025 11:41:06.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:41:08.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight was doomed to fall by Ender Dragon
+[03May2025 11:41:14.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:41:29.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was killed by Ender Dragon using magic
+[03May2025 11:42:34.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Enderman
