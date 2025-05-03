@@ -1537,6 +1537,7 @@
       "minecraft:zombified_piglin": "2025-05-03 11:02:56 +0000",
       "minecraft:witch": "2025-02-17 09:05:16 +0000",
       "minecraft:wither_skeleton": "2025-02-17 09:51:58 +0000",
+      "minecraft:shulker": "2025-05-03 11:53:18 +0000",
       "minecraft:piglin": "2025-02-17 09:58:03 +0000",
       "minecraft:enderman": "2025-02-15 06:32:36 +0000",
       "minecraft:silverfish": "2025-05-03 08:56:22 +0000",
@@ -12048,6 +12049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-05-03 11:52:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
@@ -12246,6 +12253,12 @@
     },
     "done": true
   },
+  "adorn:recipes/end_stone_brick_post": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-05-03 11:52:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2025-05-03 10:33:57 +0000"
@@ -12255,6 +12268,12 @@
   "botania:recipes/tools/obedience_stick": {
     "criteria": {
       "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-05-03 11:52:40 +0000"
     },
     "done": true
   },
@@ -12306,6 +12325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-03 11:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-05-03 11:37:30 +0000"
@@ -12327,6 +12352,12 @@
   "farmersdelight:recipes/food/smoked_ham": {
     "criteria": {
       "has_ham": "2025-05-03 10:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-05-03 11:52:40 +0000"
     },
     "done": true
   },
@@ -12546,6 +12577,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-05-03 11:59:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-03 11:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2025-05-03 11:47:43 +0000"
@@ -12585,6 +12628,12 @@
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-05-03 11:54:12 +0000"
     },
     "done": true
   },
@@ -12642,6 +12691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-03 11:57:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:04:41 +0000"
@@ -12681,6 +12736,12 @@
   "botania:recipes/tools/swap_ring": {
     "criteria": {
       "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-05-03 11:58:37 +0000"
     },
     "done": true
   },
@@ -12882,6 +12943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-05-03 11:52:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_leggings": {
     "criteria": {
       "has_item": "2025-05-03 08:58:57 +0000"
@@ -12966,6 +13033,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-05-03 11:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-05-03 11:52:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_axe": {
     "criteria": {
       "has_item": "2025-05-03 08:58:57 +0000"
@@ -12981,6 +13060,12 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-03 11:52:09 +0000"
     },
     "done": true
   },

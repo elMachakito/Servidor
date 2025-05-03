@@ -4029,3 +4029,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 11:52:05.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [The City at the End of the Game]
 [03May2025 11:52:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [The City at the End of the Game]
 [03May2025 11:53:26.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has reached the goal [Sky's the Limit]
+[03May2025 11:53:43.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was doomed to fall by Mimicube
+[03May2025 11:53:46.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Local Brewery]
+[03May2025 11:53:51.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:54:47.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight was doomed to fall by Mimicube
+[03May2025 11:54:58.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:55:04.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to 863.500000, 150.500000, -885.500000]
+[03May2025 11:57:54.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was doomed to fall by Mimicube
+[03May2025 11:58:02.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:58:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Ender Distancing]
+[03May2025 11:58:37.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Capsid-19]
+[03May2025 11:58:43.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Imitation Air]
+[03May2025 11:59:04.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [Weird Fishes/Arpeggi]
+[03May2025 11:59:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[03May2025 12:00:32.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO fell from a high place
+[03May2025 12:00:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]

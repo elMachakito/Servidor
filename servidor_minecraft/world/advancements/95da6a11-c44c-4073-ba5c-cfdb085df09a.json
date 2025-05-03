@@ -679,6 +679,7 @@
       "minecraft:wither_skeleton": "2025-05-03 10:54:07 +0000",
       "minecraft:husk": "2025-02-15 07:29:31 +0000",
       "minecraft:ender_dragon": "2025-05-03 11:46:22 +0000",
+      "minecraft:shulker": "2025-05-03 11:53:28 +0000",
       "minecraft:enderman": "2025-02-18 05:28:10 +0000",
       "minecraft:silverfish": "2025-02-18 05:28:43 +0000",
       "minecraft:vex": "2025-02-17 09:09:29 +0000",
@@ -12634,6 +12635,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-03 11:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-03 10:35:30 +0000"
@@ -12688,6 +12695,12 @@
     },
     "done": true
   },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
   "botania:main/runic_altar_pickup": {
     "criteria": {
       "altar": "2025-05-03 10:50:04 +0000"
@@ -12697,6 +12710,12 @@
   "botania:recipes/misc/conversions/brown_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-03 10:06:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/corporea_spark": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
     },
     "done": true
   },
@@ -12742,6 +12761,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-03 11:53:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
@@ -12769,6 +12794,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-03 10:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-03 11:53:36 +0000"
     },
     "done": true
   },
@@ -12913,6 +12944,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-05-03 10:56:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/keep_ivy": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
     },
     "done": true
   },
@@ -13078,6 +13115,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/red_string": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/swap_ring": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
@@ -13135,6 +13178,12 @@
   "botania:recipes/misc/manasteel_block": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/red_string_alt": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
     },
     "done": true
   },
@@ -13216,6 +13265,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/spawner_claw": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_leggings": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
@@ -13267,6 +13322,12 @@
   "botania:recipes/tools/invisibility_cloak": {
     "criteria": {
       "has_item": "2025-05-03 10:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-03 11:52:02 +0000"
     },
     "done": true
   },
