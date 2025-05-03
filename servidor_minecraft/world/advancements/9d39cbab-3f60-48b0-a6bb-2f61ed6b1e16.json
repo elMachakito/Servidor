@@ -6713,51 +6713,9 @@
     },
     "done": true
   },
-  "orcz:magiccancellation": {
+  "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
-      "magiccancellation": "2025-02-21 07:25:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-02-21 07:28:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_leggings": {
-    "criteria": {
-      "has_item": "2025-02-21 07:28:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-02-21 07:28:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-02-21 07:28:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-02-21 07:28:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-02-21 07:28:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-21 07:28:45 +0000"
+      "has_item": "2025-02-21 06:44:26 +0000"
     },
     "done": true
   },
@@ -6767,27 +6725,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2025-02-21 07:28:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-02-21 06:57:01 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
+  "orcz:magiccancellation": {
+    "criteria": {
+      "magiccancellation": "2025-02-21 07:25:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-21 07:28:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-02-21 07:28:40 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
-      "has_item": "2025-02-21 07:28:57 +0000"
+      "has_dragonbone": "2025-02-21 07:28:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-02-21 07:28:40 +0000"
     },
     "done": true
   },
@@ -6821,12 +6791,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2025-02-21 07:51:29 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-02-21 07:28:40 +0000"
@@ -6845,15 +6809,99 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-02-21 07:28:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-02-21 07:28:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-21 07:28:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-02-21 07:28:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2025-02-21 07:28:45 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/firefly_jar": {
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
-      "has_item": "2025-02-21 06:44:26 +0000"
+      "has_item": "2025-02-21 07:28:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-02-21 07:28:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-02-21 07:51:29 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_slab": "2025-05-03 07:50:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_platform": {
+    "criteria": {
+      "has_slab": "2025-05-03 07:50:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_step": {
+    "criteria": {
+      "has_slab": "2025-05-03 07:50:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_shelf": {
+    "criteria": {
+      "has_slab": "2025-05-03 07:50:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_chair": {
+    "criteria": {
+      "has_slab": "2025-05-03 07:50:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_drawer": {
+    "criteria": {
+      "has_slab": "2025-05-03 07:50:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-05-03 07:50:16 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/biomesoplenty/mahogany_bench": {
+    "criteria": {
+      "has_slab": "2025-05-03 07:50:16 +0000"
     },
     "done": true
   },

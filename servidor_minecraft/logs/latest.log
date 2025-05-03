@@ -3448,3 +3448,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 07:46:19.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kortight[/127.57.190.99:50595] logged in with entity id 6037 at (-2421.166835048565, 64.0, -1589.2949340277596)
 [03May2025 07:46:19.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight joined the game
 [03May2025 07:46:19.798] [Server thread/INFO] [Jade/]: Syncing config to Kortight (9d39cbab-3f60-48b0-a6bb-2f61ed6b1e16)
+[03May2025 07:50:36.215] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player FilthyDread is 1fb0894e-1ad3-498f-b2b9-2e840907cc42
+[03May2025 07:50:41.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FilthyDread[/127.183.50.233:49393] logged in with entity id 12590 at (-2416.143368895531, 65.0, -1544.1965517367623)
+[03May2025 07:50:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread joined the game
+[03May2025 07:50:41.306] [Server thread/INFO] [Jade/]: Syncing config to FilthyDread (1fb0894e-1ad3-498f-b2b9-2e840907cc42)
+[03May2025 07:52:38.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -3048.500000, -12.500000, -728.500000]
+[03May2025 07:52:42.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was incinerated by Fire Dragon
+[03May2025 07:52:48.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 07:56:28.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03May2025 07:57:00.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2421.500000, 75.500000, -1582.500000]
+[03May2025 07:57:20.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 07:58:00.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -3048.500000, 50.500000, -728.500000]
+[03May2025 07:58:07.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 07:58:20.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -3048.500000, 80.500000, -728.500000]
+[03May2025 07:58:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
