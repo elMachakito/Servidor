@@ -11699,6 +11699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-05-03 09:30:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-03 09:00:27 +0000"
@@ -11729,6 +11735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-03 09:30:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_black_bowtie": {
     "criteria": {
       "has_item": "2025-05-03 09:28:22 +0000"
@@ -11747,15 +11759,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_gray_dye": {
+    "criteria": {
+      "forge:dyes/gray": "2025-05-03 09:30:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/polished_livingrock": {
     "criteria": {
       "has_item": "2025-05-03 08:48:31 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_light_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-05-03 09:30:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/cyan_petal_block": {
     "criteria": {
       "has_item": "2025-05-03 09:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-05-03 09:30:34 +0000"
     },
     "done": true
   },
@@ -11801,6 +11831,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_gray2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_pool": {
     "criteria": {
       "has_item": "2025-05-03 08:48:31 +0000"
@@ -11816,6 +11852,12 @@
   "botania:recipes/misc/cosmetic_red_glasses": {
     "criteria": {
       "has_item": "2025-05-03 09:28:22 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:27 +0000"
     },
     "done": true
   },
@@ -11840,6 +11882,12 @@
   "botania:recipes/misc/cosmetic_eyepatch": {
     "criteria": {
       "has_item": "2025-05-03 09:28:22 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:34 +0000"
     },
     "done": true
   },
@@ -11870,6 +11918,18 @@
   "botania:recipes/misc/cosmetic_four_leaf_clover": {
     "criteria": {
       "has_item": "2025-05-03 09:28:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-05-03 09:30:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:34 +0000"
     },
     "done": true
   },
@@ -11963,6 +12023,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-03 09:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-03 09:30:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/cosmetic_devil_horns": {
     "criteria": {
       "has_item": "2025-05-03 09:28:22 +0000"
@@ -12032,6 +12104,12 @@
   "botania:recipes/misc/cosmetic_thinking_hand": {
     "criteria": {
       "has_item": "2025-05-03 09:28:22 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2025-05-03 09:31:52 +0000"
     },
     "done": true
   },
@@ -12107,6 +12185,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_light_gray_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:34 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/cobweb": {
     "criteria": {
       "has_item": "2025-05-03 09:28:22 +0000"
@@ -12122,6 +12212,12 @@
   "botania:recipes/decorations/purple_petal_block": {
     "criteria": {
       "has_item": "2025-05-03 08:55:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_gray_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-05-03 09:30:27 +0000"
     },
     "done": true
   },
@@ -12161,9 +12257,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_light_gray_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-05-03 09:30:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:08:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
+    "criteria": {
+      "forge:dyes/light_gray": "2025-05-03 09:30:34 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_gray2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:27 +0000"
     },
     "done": true
   },
@@ -12233,9 +12347,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_gray_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-03 09:30:34 +0000"
     },
     "done": true
   },
@@ -12248,6 +12374,12 @@
   "botania:recipes/building_blocks/livingwood_planks": {
     "criteria": {
       "has_item": "2025-05-03 08:40:08 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:34 +0000"
     },
     "done": true
   },
@@ -12299,6 +12431,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_light_gray_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/glimmering_livingwood_log": {
     "criteria": {
       "has_item": "2025-05-03 08:40:08 +0000"
@@ -12308,6 +12446,12 @@
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-03 09:30:34 +0000"
     },
     "done": true
   },
@@ -12323,6 +12467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-03 09:30:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/livingwood_twig": {
     "criteria": {
       "has_item": "2025-05-03 08:40:08 +0000"
@@ -12332,6 +12482,12 @@
   "botania:recipes/misc/cosmetic_tiny_potato_mask": {
     "criteria": {
       "has_item": "2025-05-03 09:28:22 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:27 +0000"
     },
     "done": true
   },
@@ -12353,6 +12509,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_gray_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-03 09:30:27 +0000"
+    },
+    "done": true
+  },
   "botania:main/mana_pool_pickup_lexicon": {
     "criteria": {
       "pickup": "2025-05-03 08:52:30 +0000"
@@ -12362,6 +12524,12 @@
   "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-05-03 09:30:48 +0000"
     },
     "done": true
   },
