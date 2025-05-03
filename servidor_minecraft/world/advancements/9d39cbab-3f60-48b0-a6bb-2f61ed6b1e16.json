@@ -7240,6 +7240,12 @@
     },
     "done": true
   },
+  "adorn:table": {
+    "criteria": {
+      "has_table": "2025-05-03 10:14:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-05-03 09:03:08 +0000"
@@ -7275,6 +7281,12 @@
       "has_wheat": "2025-05-03 09:03:08 +0000"
     },
     "done": true
+  },
+  "adorn:everything": {
+    "criteria": {
+      "has_table": "2025-05-03 10:14:03 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/root": {
     "criteria": {

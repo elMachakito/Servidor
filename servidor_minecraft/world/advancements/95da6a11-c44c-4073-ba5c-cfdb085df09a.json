@@ -2432,6 +2432,7 @@
       "beef": "2025-02-15 08:34:17 +0000",
       "baked_potato": "2025-02-28 06:04:05 +0000",
       "porkchop": "2025-05-03 08:18:46 +0000",
+      "potato": "2025-05-03 10:10:16 +0000",
       "bread": "2025-02-15 05:59:23 +0000",
       "golden_apple": "2025-02-27 06:44:41 +0000",
       "cookie": "2025-02-15 03:22:23 +0000",
@@ -6477,6 +6478,7 @@
   "adorn:everything": {
     "criteria": {
       "has_stone_ladder": "2025-02-28 06:05:08 +0000",
+      "has_table": "2025-05-03 10:13:43 +0000",
       "has_candlelit_lantern": "2025-03-03 08:07:18 +0000",
       "has_step": "2025-02-17 07:56:00 +0000",
       "has_trading_station": "2025-03-05 03:15:30 +0000"
@@ -12626,6 +12628,12 @@
   "botania:recipes/decorations/red_petal_block": {
     "criteria": {
       "has_item": "2025-05-03 10:06:33 +0000"
+    },
+    "done": true
+  },
+  "adorn:table": {
+    "criteria": {
+      "has_table": "2025-05-03 10:13:43 +0000"
     },
     "done": true
   },

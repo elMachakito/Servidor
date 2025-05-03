@@ -3859,3 +3859,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 10:05:20.662] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
 [03May2025 10:05:51.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ELMACHAKITO to Kortight
 [03May2025 10:06:21.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03May2025 10:13:43.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [No More Fences and Slabs]
+[03May2025 10:14:03.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [No More Fences and Slabs]
