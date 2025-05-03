@@ -817,6 +817,7 @@
       "rotten_flesh": "2025-02-14 08:46:37 +0000",
       "glow_berries": "2025-02-15 08:27:53 +0000",
       "melon_slice": "2025-02-15 03:00:12 +0000",
+      "golden_carrot": "2025-05-03 08:10:11 +0000",
       "cooked_chicken": "2025-02-15 03:16:21 +0000",
       "enchanted_golden_apple": "2025-02-19 04:11:09 +0000"
     },
@@ -6864,6 +6865,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 08:05:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:05:07 +0000"
@@ -6903,6 +6910,12 @@
   "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:05:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-03 08:05:51 +0000"
     },
     "done": true
   },
