@@ -7201,6 +7201,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-03 12:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-03 09:25:35 +0000",
@@ -7272,6 +7278,12 @@
   "botania:recipes/tools/obedience_stick": {
     "criteria": {
       "has_item": "2025-05-03 12:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-03 12:25:04 +0000"
     },
     "done": true
   },
@@ -7440,6 +7452,12 @@
   "adorn:table": {
     "criteria": {
       "has_table": "2025-05-03 10:14:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-03 12:24:49 +0000"
     },
     "done": true
   },

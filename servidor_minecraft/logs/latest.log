@@ -4083,3 +4083,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 12:22:21.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1685, y=54, z=-2970} BlockPos{x=1607, y=60, z=-3103}
 [03May2025 12:23:35.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Enderman
 [03May2025 12:23:57.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 12:24:26.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to 1539.500000, 134.500000, -3403.500000]
+[03May2025 12:24:37.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Local Brewery]
+[03May2025 12:25:04.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has reached the goal [Sky's the Limit]
+[03May2025 12:25:40.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -1.500000, 61.500000, 2.500000]
+[03May2025 12:25:56.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2383.500000, 73.500000, -1589.500000]
+[03May2025 12:26:47.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Shulker
+[03May2025 12:26:49.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread is bleeding. FilthyDread was killed by magic
+[03May2025 12:26:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:26:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has completed the challenge [Great View From Up Here]
+[03May2025 12:26:59.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to Kortight]
+[03May2025 12:27:26.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Kortight
+[03May2025 12:27:50.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03May2025 12:27:58.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[03May2025 12:28:02.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03May2025 12:28:04.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2368.500000, 119.500000, -1505.500000]
+[03May2025 12:28:09.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set the weather to clear]
+[03May2025 12:29:03.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight fell from a high place
+[03May2025 12:30:16.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread moved too quickly! 1.2374096443031704,-2.0080243040655716,-18.67852087452843
+[03May2025 12:30:16.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO moved too quickly! 0.3732132745085437,-11.531047305098014,-13.496438014813293
+[03May2025 12:30:16.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kortight moved too quickly! 0.5011440658358879,-1.9202325313889759,-17.50013124125826
+[03May2025 12:30:58.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03May2025 12:31:01.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[03May2025 12:32:34.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[03May2025 12:32:34.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[03May2025 12:32:39.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kortight lost connection: Disconnected
+[03May2025 12:32:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight left the game
+[03May2025 12:34:05.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2388.500000, 65.500000, -1587.500000]

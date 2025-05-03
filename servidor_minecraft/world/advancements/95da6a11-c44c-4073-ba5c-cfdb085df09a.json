@@ -13212,6 +13212,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-03 12:25:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2025-05-03 11:46:22 +0000"
@@ -13248,9 +13254,21 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-05-03 12:26:56 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/brown_petal_block": {
     "criteria": {
       "has_item": "2025-05-03 10:06:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-03 12:25:13 +0000"
     },
     "done": true
   },
