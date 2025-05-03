@@ -4110,3 +4110,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 12:32:39.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kortight lost connection: Disconnected
 [03May2025 12:32:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight left the game
 [03May2025 12:34:05.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to -2388.500000, 65.500000, -1587.500000]
+[03May2025 12:34:14.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FilthyDread lost connection: Disconnected
+[03May2025 12:34:14.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread left the game
+[03May2025 12:34:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03May2025 12:34:23.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sstop<--[HERE]
+[03May2025 12:34:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03May2025 12:34:27.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03May2025 12:34:27.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03May2025 12:34:27.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03May2025 12:34:27.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03May2025 12:34:28.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03May2025 12:34:28.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[03May2025 12:34:28.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03May2025 12:34:28.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03May2025 12:34:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03May2025 12:34:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03May2025 12:34:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[03May2025 12:34:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03May2025 12:34:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03May2025 12:34:28.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03May2025 12:34:29.329] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03May2025 12:34:29.330] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
