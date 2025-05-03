@@ -3849,3 +3849,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 09:31:52.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Inner Arts]
 [03May2025 09:32:03.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
 [03May2025 09:32:33.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[03May2025 09:55:42.069] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/195833, l='ServerLevel[world]', x=-2072.50, y=50.00, z=-1268.50]
+[03May2025 10:03:09.216] [pool-300-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=-1493, y=91, z=107}
+[03May2025 10:04:03.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO lost connection: Disconnected
+[03May2025 10:04:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO left the game
+[03May2025 10:05:15.053] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ELMACHAKITO is 95da6a11-c44c-4073-ba5c-cfdb085df09a
+[03May2025 10:05:20.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELMACHAKITO[/127.201.27.211:40159] logged in with entity id 211978 at (-1505.7669149620997, 84.0, 96.69999998807907)
+[03May2025 10:05:20.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO joined the game
+[03May2025 10:05:20.662] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
+[03May2025 10:05:51.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ELMACHAKITO to Kortight
+[03May2025 10:06:21.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
