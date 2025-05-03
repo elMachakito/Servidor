@@ -13025,6 +13025,12 @@
     },
     "done": true
   },
+  "adorn:recipes/cobblestone_step": {
+    "criteria": {
+      "has_slab": "2025-05-03 12:03:55 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-05-03 11:50:05 +0000"
@@ -13118,6 +13124,12 @@
   "botania:recipes/misc/red_string": {
     "criteria": {
       "has_item": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cobblestone_platform": {
+    "criteria": {
+      "has_slab": "2025-05-03 12:03:55 +0000"
     },
     "done": true
   },

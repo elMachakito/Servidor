@@ -4044,3 +4044,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 11:59:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
 [03May2025 12:00:32.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO fell from a high place
 [03May2025 12:00:40.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:04:48.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:06:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported Kortight to ELMACHAKITO]
+[03May2025 12:06:11.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was doomed to fall by Enderman
+[03May2025 12:06:35.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 12:08:29.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has reached the goal [Sky's the Limit]
+[03May2025 12:08:49.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 12:10:48.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[03May2025 12:11:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:12:15.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to 1742.500000, 60.500000, -2308.500000]
+[03May2025 12:13:01.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 12:13:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was doomed to fall
+[03May2025 12:13:31.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
