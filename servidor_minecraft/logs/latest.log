@@ -4056,3 +4056,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 12:13:01.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
 [03May2025 12:13:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was doomed to fall
 [03May2025 12:13:31.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:14:29.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1354, y=129, z=-206} BlockPos{x=1700, y=62, z=-2413}
+[03May2025 12:15:29.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:16:15.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [A Ruined Citadel]
+[03May2025 12:16:25.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [A Ruined Citadel]
+[03May2025 12:16:29.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [A Ruined Citadel]
+[03May2025 12:16:39.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Enderman
+[03May2025 12:16:42.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:17:00.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO moved too quickly! 3.5436094890899312,-8.0,-5.540141832596873
+[03May2025 12:17:06.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Ender Guardian
+[03May2025 12:17:29.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:17:37.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:17:52.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Hunt and Gather]
+[03May2025 12:18:52.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Enderman
+[03May2025 12:19:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was slain by Ender Golem
+[03May2025 12:19:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:20:10.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:20:23.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:20:26.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was blown up by Ender Guardian
+[03May2025 12:21:05.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO moved too quickly! -1.033113712500608,-10.0,-6.344541700676473
+[03May2025 12:21:12.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:21:16.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELMACHAKITO moved too quickly! 5.925012433123129,-4.0,-7.337243262303218
+[03May2025 12:21:17.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:21:21.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:21:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to Kortight]
+[03May2025 12:22:21.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1685, y=54, z=-2970} BlockPos{x=1607, y=60, z=-3103}
+[03May2025 12:23:35.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Enderman
+[03May2025 12:23:57.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]

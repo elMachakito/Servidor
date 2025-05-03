@@ -2433,6 +2433,7 @@
       "cooked_porkchop": "2025-02-15 03:13:57 +0000",
       "cooked_mutton": "2025-02-15 02:22:13 +0000",
       "cooked_beef": "2025-02-15 02:23:47 +0000",
+      "chorus_fruit": "2025-05-03 12:14:37 +0000",
       "beef": "2025-02-15 08:34:17 +0000",
       "baked_potato": "2025-02-28 06:04:05 +0000",
       "porkchop": "2025-05-03 08:18:46 +0000",
@@ -13019,6 +13020,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-05-03 12:16:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
@@ -13112,6 +13119,12 @@
   "botania:recipes/tools/mana_tablet": {
     "criteria": {
       "has_item": "2025-05-03 10:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-03 12:14:31 +0000"
     },
     "done": true
   },
