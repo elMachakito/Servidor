@@ -3837,3 +3837,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 09:17:32.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kortight moved too quickly! 16939.07854324685,44.32352912385573,11315.088555412456
 [03May2025 09:20:08.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [We Need to Go Deeper]
 [03May2025 09:20:08.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[03May2025 09:20:42.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03May2025 09:21:07.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set the weather to rain]
+[03May2025 09:21:49.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Straddle My Ol' Saddle]
+[03May2025 09:23:43.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO fell from a high place
+[03May2025 09:23:47.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03May2025 09:23:53.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO fell from a high place
+[03May2025 09:23:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[03May2025 09:26:44.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to FilthyDread]
+[03May2025 09:26:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]

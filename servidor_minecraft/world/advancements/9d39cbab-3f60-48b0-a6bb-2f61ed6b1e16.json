@@ -89,6 +89,7 @@
       "minecraft:skeleton": "2025-02-15 02:49:02 +0000",
       "minecraft:spider": "2025-02-15 02:33:43 +0000",
       "minecraft:phantom": "2025-02-19 04:43:50 +0000",
+      "minecraft:wither_skeleton": "2025-05-03 09:24:08 +0000",
       "minecraft:husk": "2025-02-15 03:34:12 +0000",
       "minecraft:enderman": "2025-02-15 04:15:15 +0000",
       "minecraft:zombie": "2025-02-14 08:26:12 +0000",
@@ -7190,6 +7191,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-03 09:25:35 +0000",
+      "minecraft:nether_wastes": "2025-05-03 09:25:34 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-05-03 09:03:08 +0000"
@@ -7201,6 +7209,12 @@
       "potato": "2025-05-03 08:55:52 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-05-03 09:21:49 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
