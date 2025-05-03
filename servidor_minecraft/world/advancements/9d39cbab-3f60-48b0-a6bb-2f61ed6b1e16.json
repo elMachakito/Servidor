@@ -55,6 +55,7 @@
       "volcano": "2025-02-19 04:49:07 +0000",
       "lavender_field": "2025-02-15 02:16:44 +0000",
       "grassland": "2025-02-14 08:39:11 +0000",
+      "undergrowth": "2025-05-03 10:46:31 +0000",
       "rainforest": "2025-02-15 02:53:57 +0000"
     },
     "done": false
@@ -87,10 +88,12 @@
     "criteria": {
       "minecraft:pillager": "2025-02-15 04:20:35 +0000",
       "minecraft:skeleton": "2025-02-15 02:49:02 +0000",
+      "minecraft:hoglin": "2025-05-03 10:40:09 +0000",
       "minecraft:spider": "2025-02-15 02:33:43 +0000",
       "minecraft:phantom": "2025-02-19 04:43:50 +0000",
       "minecraft:wither_skeleton": "2025-05-03 09:24:08 +0000",
       "minecraft:husk": "2025-02-15 03:34:12 +0000",
+      "minecraft:piglin": "2025-05-03 10:40:26 +0000",
       "minecraft:enderman": "2025-02-15 04:15:15 +0000",
       "minecraft:zombie": "2025-02-14 08:26:12 +0000",
       "minecraft:drowned": "2025-02-15 04:31:38 +0000"
@@ -7194,7 +7197,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-03 09:25:35 +0000",
-      "minecraft:nether_wastes": "2025-05-03 09:25:34 +0000"
+      "minecraft:nether_wastes": "2025-05-03 09:25:34 +0000",
+      "minecraft:soul_sand_valley": "2025-05-03 10:47:24 +0000"
     },
     "done": false
   },
@@ -7270,15 +7274,33 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-05-03 10:40:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/door_mat": {
     "criteria": {
       "has_wheat": "2025-05-03 09:03:08 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-03 10:37:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-05-03 09:03:08 +0000"
+    },
+    "done": true
+  },
+  "adorn:chair": {
+    "criteria": {
+      "sit_on_chair": "2025-05-03 10:31:06 +0000"
     },
     "done": true
   },
@@ -7291,6 +7313,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-03 09:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-03 10:38:39 +0000"
     },
     "done": true
   },

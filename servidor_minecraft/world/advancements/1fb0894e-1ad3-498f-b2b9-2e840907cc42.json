@@ -1530,6 +1530,7 @@
       "minecraft:vindicator": "2025-02-17 08:49:48 +0000",
       "minecraft:magma_cube": "2025-02-18 05:07:39 +0000",
       "minecraft:spider": "2025-02-14 09:00:03 +0000",
+      "minecraft:piglin_brute": "2025-05-03 10:31:12 +0000",
       "minecraft:creeper": "2025-02-14 09:00:11 +0000",
       "minecraft:evoker": "2025-02-17 09:08:43 +0000",
       "minecraft:phantom": "2025-02-17 09:10:27 +0000",
@@ -12244,6 +12245,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-05-03 10:33:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/obedience_stick": {
     "criteria": {
       "has_item": "2025-05-03 08:58:57 +0000"
@@ -12298,9 +12305,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-03 10:31:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shears": {
     "criteria": {
       "has_item": "2025-05-03 08:58:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-05-03 10:33:57 +0000"
     },
     "done": true
   },
@@ -12694,6 +12713,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-03 10:31:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-03 08:53:00 +0000"
@@ -12967,6 +12992,12 @@
   "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-05-03 08:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-03 10:31:05 +0000"
     },
     "done": true
   },
