@@ -4009,3 +4009,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03May2025 11:41:14.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
 [03May2025 11:41:29.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO is bleeding. ELMACHAKITO was killed by Ender Dragon using magic
 [03May2025 11:42:34.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Enderman
+[03May2025 11:43:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Blue Bed] to ELMACHAKITO]
+[03May2025 11:43:39.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=43, y=58, z=12} BlockPos{x=2, y=62, z=2}
+[03May2025 11:44:10.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Enderman
+[03May2025 11:44:23.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight is bleeding. Kortight was slain by Enderman
+[03May2025 11:46:22.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Free the End]
+[03May2025 11:47:35.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has reached the goal [The Next Generation]
+[03May2025 11:47:43.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has reached the goal [The Next Generation]
+[03May2025 11:48:41.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to -2380.500000, 66.500000, -1589.500000]
+[03May2025 11:49:17.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Remote Getaway]
+[03May2025 11:49:35.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:49:56.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Ender Distancing]
+[03May2025 11:49:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [Capsid-19]
+[03May2025 11:50:05.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Ender Distancing]
+[03May2025 11:50:06.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [Capsid-19]
+[03May2025 11:51:29.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FilthyDread: Teleported FilthyDread to ELMACHAKITO]
+[03May2025 11:51:59.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kortight: Teleported Kortight to ELMACHAKITO]
+[03May2025 11:52:02.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has made the advancement [The City at the End of the Game]
+[03May2025 11:52:05.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kortight has made the advancement [The City at the End of the Game]
+[03May2025 11:52:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FilthyDread has made the advancement [The City at the End of the Game]
+[03May2025 11:53:26.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has reached the goal [Sky's the Limit]

@@ -12546,6 +12546,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-05-03 11:47:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-03 08:04:41 +0000"

@@ -678,6 +678,7 @@
       "minecraft:witch": "2025-02-17 08:58:27 +0000",
       "minecraft:wither_skeleton": "2025-05-03 10:54:07 +0000",
       "minecraft:husk": "2025-02-15 07:29:31 +0000",
+      "minecraft:ender_dragon": "2025-05-03 11:46:22 +0000",
       "minecraft:enderman": "2025-02-18 05:28:10 +0000",
       "minecraft:silverfish": "2025-02-18 05:28:43 +0000",
       "minecraft:vex": "2025-02-17 09:09:29 +0000",
@@ -12717,6 +12718,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-03 11:49:17 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/nether_brick_smoker": {
     "criteria": {
       "has_nether_bricks": "2025-05-03 10:53:34 +0000"
@@ -12981,6 +12988,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-03 11:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-05-03 11:47:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
@@ -13065,6 +13084,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-05-03 11:50:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
@@ -13110,6 +13135,12 @@
   "botania:recipes/misc/manasteel_block": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-05-03 11:46:22 +0000"
     },
     "done": true
   },
