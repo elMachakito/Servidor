@@ -12612,99 +12612,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "botania:recipes/decorations/red_petal_block": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
+      "has_item": "2025-05-03 10:06:33 +0000"
     },
     "done": true
   },
-  "botania:recipes/combat/manaweave_leggings": {
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
     "criteria": {
-      "has_item": "2025-05-03 11:16:01 +0000"
+      "has_item": "2025-05-03 10:06:33 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+  "botania:recipes/misc/dye_red": {
     "criteria": {
-      "has_item": "2025-05-03 11:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-05-03 11:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-05-03 11:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-05-03 10:35:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-05-03 11:38:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dodge_ring": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-05-03 11:11:01 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/nether_brick_chimney_from_block": {
-    "criteria": {
-      "has_key_item_0": "2025-05-03 10:53:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/lens_normal": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_sword": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/tiny_planet": {
-    "criteria": {
-      "has_item": "2025-05-03 10:49:44 +0000"
-    },
-    "done": true
-  },
-  "botania:main/ender_air_make": {
-    "criteria": {
-      "air": "2025-05-03 11:58:43 +0000"
-    },
-    "done": true
-  },
-  "botania:main/runic_altar_pickup": {
-    "criteria": {
-      "altar": "2025-05-03 10:50:04 +0000"
+      "has_item": "2025-05-03 10:06:33 +0000"
     },
     "done": true
   },
@@ -12714,57 +12636,69 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/corporea_spark": {
+  "botania:recipes/misc/dye_brown": {
     "criteria": {
-      "has_item": "2025-05-03 11:58:43 +0000"
+      "has_item": "2025-05-03 10:06:34 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/terra_plate": {
+  "botania:recipes/decorations/brown_petal_block": {
     "criteria": {
-      "has_item": "2025-05-03 11:09:37 +0000"
+      "has_item": "2025-05-03 10:06:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+  "botania:recipes/misc/petal_brown_double": {
     "criteria": {
-      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
+      "has_alt_item": "2025-05-03 10:06:34 +0000"
     },
     "done": true
   },
-  "botania:recipes/combat/manaweave_helmet": {
+  "botania:recipes/decorations/floating_endoflame": {
     "criteria": {
-      "has_item": "2025-05-03 11:16:01 +0000"
+      "has_item": "2025-05-03 10:09:02 +0000"
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "adorn:table": {
     "criteria": {
-      "entered_end_gateway": "2025-05-03 11:49:17 +0000"
+      "has_table": "2025-05-03 10:13:43 +0000"
     },
     "done": true
   },
-  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
+      "minecraft:crimson_forest": "2025-05-03 10:35:30 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-03 10:35:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_end_stone": "2025-05-03 11:38:13 +0000"
+      "has_netherrack": "2025-05-03 10:36:02 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/obedience_stick": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
+      "bastion": "2025-05-03 10:38:28 +0000"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
-      "elytra": "2025-05-03 11:53:26 +0000"
+      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
     },
     "done": true
   },
@@ -12780,309 +12714,9 @@
     },
     "done": true
   },
-  "botania:recipes/combat/manasteel_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/phantom_ink": {
-    "criteria": {
-      "has_item": "2025-05-03 10:49:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-05-03 10:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-05-03 11:53:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/fire_rod": {
-    "criteria": {
-      "has_item": "2025-05-03 11:09:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/floating_endoflame": {
-    "criteria": {
-      "has_item": "2025-05-03 10:09:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-05-03 11:37:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_shears": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manaweave_boots": {
-    "criteria": {
-      "has_item": "2025-05-03 11:16:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/crafting_halo": {
-    "criteria": {
-      "has_item": "2025-05-03 10:49:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_distributor": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/smelt_rod": {
-    "criteria": {
-      "has_item": "2025-05-03 11:09:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/pump": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-05-03 11:38:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_brown": {
-    "criteria": {
-      "has_item": "2025-05-03 10:06:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/spark": {
-    "criteria": {
-      "has_item": "2025-05-03 11:11:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/red_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-03 10:06:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/travel_belt": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/cobble_rod": {
-    "criteria": {
-      "has_item": "2025-05-03 11:09:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/monocle": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/ice_pendant": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/lava_pendant": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/forest_eye": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-05-03 10:56:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/keep_ivy": {
-    "criteria": {
-      "has_item": "2025-05-03 11:58:43 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/bauble_box": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-05-03 10:54:30 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/sextant": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_pick": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/blackstone_stove": {
-    "criteria": {
-      "has_nether_brick": "2025-05-03 10:56:40 +0000"
-    },
-    "done": true
-  },
-  "adorn:table": {
-    "criteria": {
-      "has_table": "2025-05-03 10:13:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/water_rod": {
-    "criteria": {
-      "has_item": "2025-05-03 11:32:35 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/spell_cloth": {
-    "criteria": {
-      "has_item": "2025-05-03 11:16:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-05-03 11:38:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-03 11:11:01 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ruined_citadel": {
-    "criteria": {
-      "citadel": "2025-05-03 12:16:29 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_helmet": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/cobblestone_step": {
-    "criteria": {
-      "has_slab": "2025-05-03 12:03:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-05-03 11:50:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-05-03 11:47:35 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/glass_pickaxe": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/abstruse_platform": {
-    "criteria": {
-      "has_item": "2025-05-03 10:49:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_hoe": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/knockback_belt": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_end_stone": "2025-05-03 11:38:13 +0000"
     },
     "done": true
   },
@@ -13092,15 +12726,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
-      "has_blaze_powder": "2025-05-03 11:11:03 +0000"
+      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
+  "adorn:recipes/polished_blackstone_brick_post": {
     "criteria": {
-      "has_soul_sand": "2025-05-03 10:54:30 +0000"
+      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2025-05-03 10:49:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2025-05-03 10:49:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2025-05-03 10:49:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2025-05-03 10:49:44 +0000"
     },
     "done": true
   },
@@ -13110,63 +12780,81 @@
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-03 10:06:33 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/mana_tablet": {
     "criteria": {
       "has_item": "2025-05-03 10:49:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
+  "botania:recipes/decorations/tiny_planet_block": {
     "criteria": {
-      "has_chorus_fruit": "2025-05-03 12:14:31 +0000"
+      "has_alt_item": "2025-05-03 10:49:44 +0000"
     },
     "done": true
   },
-  "botania:recipes/combat/manaweave_chestplate": {
+  "botania:recipes/tools/ender_dagger": {
     "criteria": {
-      "has_item": "2025-05-03 11:16:01 +0000"
+      "has_item": "2025-05-03 10:49:44 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/red_string": {
+  "botania:recipes/tools/invisibility_cloak": {
     "criteria": {
-      "has_item": "2025-05-03 11:58:43 +0000"
+      "has_item": "2025-05-03 10:49:44 +0000"
     },
     "done": true
   },
-  "adorn:recipes/cobblestone_platform": {
+  "botania:main/runic_altar_pickup": {
     "criteria": {
-      "has_slab": "2025-05-03 12:03:55 +0000"
+      "altar": "2025-05-03 10:50:04 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/swap_ring": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
+      "fortress": "2025-05-03 10:53:26 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/capsid": {
+  "adorn:recipes/nether_brick_chimney_from_block": {
     "criteria": {
-      "capsid": "2025-05-03 11:50:06 +0000"
+      "has_key_item_0": "2025-05-03 10:53:34 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/magnet_ring": {
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
+      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
     "criteria": {
-      "has_blaze_powder": "2025-05-03 11:11:03 +0000"
+      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 10:53:34 +0000"
     },
     "done": true
   },
@@ -13182,93 +12870,9 @@
     },
     "done": true
   },
-  "botania:main/manaweave_armor_craft": {
-    "criteria": {
-      "head": "2025-05-03 11:16:09 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/teru_teru_bozu": {
-    "criteria": {
-      "has_item": "2025-05-03 11:16:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-05-03 10:53:26 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/manasteel_block": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/red_string_alt": {
-    "criteria": {
-      "has_item": "2025-05-03 11:58:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-03 12:25:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-05-03 11:46:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-05-03 10:54:30 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-05-03 10:35:53 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mining_ring": {
-    "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/nether_brick_post": {
     "criteria": {
       "has_nether_bricks": "2025-05-03 10:53:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2025-05-03 12:26:56 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brown_petal_block": {
-    "criteria": {
-      "has_item": "2025-05-03 10:06:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-03 12:25:13 +0000"
     },
     "done": true
   },
@@ -13290,33 +12894,39 @@
     },
     "done": true
   },
-  "botania:recipes/combat/manasteel_boots": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
+      "has_nether_wart": "2025-05-03 10:54:28 +0000"
     },
     "done": true
   },
-  "botania:recipes/building_blocks/blaze_block": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_item": "2025-05-03 11:11:01 +0000"
+      "has_soul_sand": "2025-05-03 10:54:30 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/petal_brown_double": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_alt_item": "2025-05-03 10:06:34 +0000"
+      "has_soul_sand": "2025-05-03 10:54:30 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/spawner_claw": {
+  "create:recipes/misc/smelting/scoria": {
     "criteria": {
-      "has_item": "2025-05-03 11:58:43 +0000"
+      "has_item": "2025-05-03 10:54:30 +0000"
     },
     "done": true
   },
-  "botania:recipes/combat/manasteel_leggings": {
+  "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
-      "has_item": "2025-05-03 10:58:51 +0000"
+      "has_nether_brick": "2025-05-03 10:56:40 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-05-03 10:56:40 +0000"
     },
     "done": true
   },
@@ -13326,21 +12936,165 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/tiny_planet_block": {
+  "botania:recipes/tools/dodge_ring": {
     "criteria": {
-      "has_alt_item": "2025-05-03 10:49:44 +0000"
+      "has_item": "2025-05-03 10:58:51 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/ender_dagger": {
+  "botania:recipes/decorations/lens_normal": {
     "criteria": {
-      "has_item": "2025-05-03 10:49:44 +0000"
+      "has_item": "2025-05-03 10:58:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "botania:recipes/combat/manasteel_sword": {
     "criteria": {
-      "has_nether_wart": "2025-05-03 10:54:28 +0000"
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/forest_eye": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-05-03 10:58:51 +0000"
     },
     "done": true
   },
@@ -13350,63 +13104,33 @@
     },
     "done": true
   },
-  "adorn:recipes/polished_blackstone_brick_post": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/manasteel_axe": {
     "criteria": {
       "has_item": "2025-05-03 10:58:51 +0000"
     },
     "done": true
   },
-  "botania:recipes/tools/invisibility_cloak": {
+  "botania:recipes/decorations/terra_plate": {
     "criteria": {
-      "has_item": "2025-05-03 10:49:44 +0000"
+      "has_item": "2025-05-03 11:09:37 +0000"
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "botania:recipes/tools/fire_rod": {
     "criteria": {
-      "in_city": "2025-05-03 11:52:02 +0000"
+      "has_item": "2025-05-03 11:09:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "botania:recipes/tools/smelt_rod": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
+      "has_item": "2025-05-03 11:09:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "botania:recipes/tools/cobble_rod": {
     "criteria": {
-      "has_blaze_rod": "2025-05-03 11:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-05-03 11:37:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-05-03 10:38:28 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/dye_red": {
-    "criteria": {
-      "has_item": "2025-05-03 10:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-05-03 11:38:13 +0000"
+      "has_item": "2025-05-03 11:09:37 +0000"
     },
     "done": true
   },
@@ -13416,9 +13140,285 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-05-03 10:43:44 +0000"
+      "has_item": "2025-05-03 11:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-03 11:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-03 11:11:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-05-03 11:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-03 11:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-03 11:11:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-05-03 11:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-03 11:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-03 11:11:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manaweave_leggings": {
+    "criteria": {
+      "has_item": "2025-05-03 11:16:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manaweave_helmet": {
+    "criteria": {
+      "has_item": "2025-05-03 11:16:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manaweave_boots": {
+    "criteria": {
+      "has_item": "2025-05-03 11:16:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/spell_cloth": {
+    "criteria": {
+      "has_item": "2025-05-03 11:16:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manaweave_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-03 11:16:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/teru_teru_bozu": {
+    "criteria": {
+      "has_item": "2025-05-03 11:16:01 +0000"
+    },
+    "done": true
+  },
+  "botania:main/manaweave_armor_craft": {
+    "criteria": {
+      "head": "2025-05-03 11:16:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_rod": {
+    "criteria": {
+      "has_item": "2025-05-03 11:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-03 11:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-03 11:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-03 11:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-05-03 11:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-05-03 11:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-03 11:49:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-03 11:50:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-05-03 11:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-03 11:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-03 11:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-05-03 11:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-03 11:53:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/corporea_spark": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/keep_ivy": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/red_string": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/red_string_alt": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spawner_claw": {
+    "criteria": {
+      "has_item": "2025-05-03 11:58:43 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cobblestone_step": {
+    "criteria": {
+      "has_slab": "2025-05-03 12:03:55 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/cobblestone_platform": {
+    "criteria": {
+      "has_slab": "2025-05-03 12:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-03 12:14:31 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-05-03 12:16:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-03 12:25:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-03 12:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-05-03 12:26:56 +0000"
     },
     "done": true
   },
