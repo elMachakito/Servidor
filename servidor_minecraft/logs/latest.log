@@ -3452,3 +3452,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05May2025 01:57:39.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 16 [White Wool] to ELMACHAKITO]
 [05May2025 01:58:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
 [05May2025 01:59:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Jungle Leaves] to ELMACHAKITO]
+[05May2025 02:11:14.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Creative Mode]
+[05May2025 02:12:07.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.40961583571577775
+[05May2025 02:12:14.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.48562407272453045
+[05May2025 02:12:18.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8303629833837107
+[05May2025 02:12:18.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8303956619183608
+[05May2025 02:12:19.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304520608299554
+[05May2025 02:12:19.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304717881089407
+[05May2025 02:12:20.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304927036248483
+[05May2025 02:12:20.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304927036248483
+[05May2025 02:12:21.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304942261124806
+[05May2025 02:12:21.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304944089674043
+[05May2025 02:12:22.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304929519425914
+[05May2025 02:12:22.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304929519425914
+[05May2025 02:12:24.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8303798224306232
+[05May2025 02:12:35.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.6277758539415055
+[05May2025 02:12:36.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8235305786400029
+[05May2025 02:12:36.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8235305786400029
+[05May2025 02:12:37.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8281198421790644
+[05May2025 02:12:37.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8281198421790644
+[05May2025 02:12:37.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8294692505426372
+[05May2025 02:12:37.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8237737510819482
+[05May2025 02:12:41.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.41921286820257625
+[05May2025 02:12:41.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.41921286820257625
+[05May2025 02:12:41.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.32326657597805536
+[05May2025 02:12:42.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.7812935691507397
+[05May2025 02:12:42.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.799977008076456
+[05May2025 02:12:43.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.7995854755460547
+[05May2025 02:12:43.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.7855201741236624
+[05May2025 02:12:44.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.5768030663008439
+[05May2025 02:19:13.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2286.500000, 74.500000, -2364.500000]
+[05May2025 02:24:18.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has completed the challenge [Lost Time Memory]
+[05May2025 02:24:44.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[05May2025 02:24:48.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Spectator Mode]
+[05May2025 02:24:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Survival Mode]
+[05May2025 02:26:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 30 [Firework Rocket] to ELMACHAKITO]

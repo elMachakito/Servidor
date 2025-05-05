@@ -11746,3 +11746,89 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05May2025 01:59:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Jungle Leaves] to ELMACHAKITO]
 [05May2025 02:03:16.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 02:03:16.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:08:16.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 02:08:16.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:11:14.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Creative Mode]
+[05May2025 02:12:07.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.40961583571577775
+[05May2025 02:12:14.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.48562407272453045
+[05May2025 02:12:18.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8303629833837107
+[05May2025 02:12:18.146] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05May2025 02:12:18.146] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 2, server=907960553, client=907960553
+[05May2025 02:12:18.146] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05May2025 02:12:18.146] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 3, server=686731592, client=686731592
+[05May2025 02:12:18.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8303956619183608
+[05May2025 02:12:18.299] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05May2025 02:12:18.299] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 11, server=-354088522, client=-354088522
+[05May2025 02:12:18.327] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05May2025 02:12:18.328] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 12, server=-1497491804, client=-1497491804
+[05May2025 02:12:19.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304520608299554
+[05May2025 02:12:19.390] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05May2025 02:12:19.390] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 9, server=-1159509171, client=-1159509171
+[05May2025 02:12:19.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304717881089407
+[05May2025 02:12:20.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304927036248483
+[05May2025 02:12:20.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304927036248483
+[05May2025 02:12:21.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304942261124806
+[05May2025 02:12:21.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304944089674043
+[05May2025 02:12:21.507] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05May2025 02:12:21.507] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 5, server=-1505582869, client=-1505582869
+[05May2025 02:12:21.507] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05May2025 02:12:21.508] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 1, server=-343718522, client=-343718522
+[05May2025 02:12:21.508] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[05May2025 02:12:21.508] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 4, server=931614316, client=931614316
+[05May2025 02:12:22.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304929519425914
+[05May2025 02:12:22.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8304929519425914
+[05May2025 02:12:24.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8303798224306232
+[05May2025 02:12:35.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.6277758539415055
+[05May2025 02:12:36.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8235305786400029
+[05May2025 02:12:36.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8235305786400029
+[05May2025 02:12:37.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8281198421790644
+[05May2025 02:12:37.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8281198421790644
+[05May2025 02:12:37.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8294692505426372
+[05May2025 02:12:37.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.8237737510819482
+[05May2025 02:12:41.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.41921286820257625
+[05May2025 02:12:41.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.41921286820257625
+[05May2025 02:12:41.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.32326657597805536
+[05May2025 02:12:42.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.7812935691507397
+[05May2025 02:12:42.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.799977008076456
+[05May2025 02:12:43.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.7995854755460547
+[05May2025 02:12:43.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.7855201741236624
+[05May2025 02:12:44.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of ELMACHAKITO) moved wrongly! 0.5768030663008439
+[05May2025 02:13:16.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 02:13:16.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:14:20.973] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2727.24, y=61.85, z=-1645.60], dimensionLocationPath overworld
+[05May2025 02:14:21.072] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2727.17, y=61.80, z=-1645.77]
+[05May2025 02:14:23.872] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2726.02, y=62.00, z=-1646.18], dimensionLocationPath overworld
+[05May2025 02:14:23.872] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2726.02, y=62.00, z=-1646.18] in list []
+[05May2025 02:14:24.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2725.94, y=62.00, z=-1646.21]
+[05May2025 02:15:14.996] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.38, y=63.63, z=-1647.10], dimensionLocationPath overworld
+[05May2025 02:15:14.996] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.38, y=63.63, z=-1647.10] in list []
+[05May2025 02:15:20.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.20, y=63.00, z=-1646.97]
+[05May2025 02:15:20.973] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.21, y=63.00, z=-1646.97], dimensionLocationPath overworld
+[05May2025 02:15:20.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.21, y=63.00, z=-1646.97] in list []
+[05May2025 02:15:21.223] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.21, y=63.00, z=-1646.97]
+[05May2025 02:15:22.423] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.10, y=63.00, z=-1645.85], dimensionLocationPath overworld
+[05May2025 02:15:22.423] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.10, y=63.00, z=-1645.85] in list []
+[05May2025 02:15:22.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.04, y=63.00, z=-1645.68]
+[05May2025 02:15:22.924] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.01, y=63.00, z=-1645.62], dimensionLocationPath overworld
+[05May2025 02:15:22.924] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.01, y=63.00, z=-1645.62] in list []
+[05May2025 02:15:27.970] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2718.21, y=63.00, z=-1647.83]
+[05May2025 02:16:52.231] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2411.04, y=70.06, z=-1545.25], dimensionLocationPath overworld
+[05May2025 02:16:52.232] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2411.04, y=70.06, z=-1545.25] in list []
+[05May2025 02:16:53.230] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2411.34, y=70.06, z=-1548.11]
+[05May2025 02:16:56.878] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2407.63, y=70.06, z=-1550.38], dimensionLocationPath overworld
+[05May2025 02:16:56.879] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2407.63, y=70.06, z=-1550.38] in list []
+[05May2025 02:16:59.785] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2412.27, y=70.06, z=-1548.51]
+[05May2025 02:17:00.278] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2412.27, y=70.06, z=-1548.51], dimensionLocationPath overworld
+[05May2025 02:17:00.278] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2412.27, y=70.06, z=-1548.51] in list []
+[05May2025 02:17:01.626] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ELMACHAKITO'/17, l='ServerLevel[world]', x=-2411.01, y=70.06, z=-1546.74]
+[05May2025 02:18:16.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 02:18:16.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:19:13.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2286.500000, 74.500000, -2364.500000]
+[05May2025 02:23:01.164] [Server thread/DEBUG] [botania/]: Instantiating vazkii.botania.common.impl.mana.ManaItemHandlerImpl for service vazkii.botania.api.mana.ManaItemHandler
+[05May2025 02:23:16.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 02:23:16.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 02:24:18.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELMACHAKITO has completed the challenge [Lost Time Memory]
+[05May2025 02:24:44.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[05May2025 02:24:48.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Spectator Mode]
+[05May2025 02:24:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Set own game mode to Survival Mode]
+[05May2025 02:26:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 30 [Firework Rocket] to ELMACHAKITO]
