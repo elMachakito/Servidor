@@ -3449,3 +3449,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05May2025 01:39:47.586] [Server thread/INFO] [Jade/]: Syncing config to ELMACHAKITO (95da6a11-c44c-4073-ba5c-cfdb085df09a)
 [05May2025 01:39:49.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
 [05May2025 01:55:50.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2428, y=66, z=-1551} BlockPos{x=-2422, y=66, z=-1540}
+[05May2025 01:57:39.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 16 [White Wool] to ELMACHAKITO]
+[05May2025 01:58:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Teleported ELMACHAKITO to -2367.500000, 120.500000, -1504.500000]
+[05May2025 01:59:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELMACHAKITO: Gave 1 [Jungle Leaves] to ELMACHAKITO]
