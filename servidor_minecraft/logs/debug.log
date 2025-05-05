@@ -11734,3 +11734,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05May2025 01:42:11.052] [Server thread/DEBUG] [mixin/]: Mixing PiglinBrainMixin from forge-dramaticdoors_forge.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [05May2025 01:43:16.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 01:43:16.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 01:48:16.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 01:48:16.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 01:53:16.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 01:53:16.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 01:55:50.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2428, y=66, z=-1551} BlockPos{x=-2422, y=66, z=-1540}
