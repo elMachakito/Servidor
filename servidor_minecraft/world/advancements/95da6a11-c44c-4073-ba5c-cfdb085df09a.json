@@ -13452,5 +13452,11 @@
     },
     "done": true
   },
+  "botania:challenge/odin_ring": {
+    "criteria": {
+      "ring": "2025-05-05 02:24:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
